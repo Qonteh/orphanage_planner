@@ -1,0 +1,1001 @@
+Date,Num_Children,Food_Remaining (kg),Daily_Need (kg),Food_Used (kg),Donation_Amount (Tsh),Expense_Total (Tsh),Budget_Left (Tsh),Food_Shortage (kg),Suggested_Purchase,Quantity_To_Buy,Estimated_Cost (Tsh),Emergency_Event,Medical_Treatment,Medical_Cost,Utility_Type,Utility_Cost,Staff_On_Duty,Notes
+2002-06-21,63,42,63,29,123796,68417,55379,21,Beans,21,39312,None,Flu,14505,Internet,29443,3,Check food/donations
+2003-06-04,65,46,65,25,129366,47743,81623,19,Vegetables,19,33725,None,Flu,7869,Gas,27339,7,Check food/donations
+2018-03-02,67,64,67,31,95568,63059,32509,3,Rice,3,4842,None,Fever,19011,Gas,15270,8,Check food/donations
+2006-07-28,23,34,23,14,17011,56998,-39987,0,None,0,0,None,Malaria,26310,Electricity,31234,8,Check food/donations
+2010-02-07,46,71,46,7,68713,98295,-29582,0,None,0,0,Power Outage,Flu,18715,Internet,39627,5,Check food/donations
+2001-05-02,24,40,24,7,79936,114208,-34272,0,None,0,0,Sickness,Flu,21305,Water,36181,8,Check food/donations
+2008-01-21,87,46,87,31,37857,102076,-64219,41,Vegetables,41,80975,None,Malaria,3549,Internet,47637,3,Check food/donations
+2014-08-26,54,72,54,29,58532,28348,30184,0,None,0,0,Power Outage,Flu,7451,Gas,33452,3,Stable
+2001-08-20,76,58,76,39,45154,21130,24024,18,Vegetables,18,31770,None,Diarrhea,1239,Water,36599,9,Check food/donations
+2017-09-21,55,85,55,28,95638,106964,-11326,0,None,0,0,Sickness,Fever,23776,Gas,33953,9,Check food/donations
+2000-10-12,82,55,82,31,140611,103429,37182,27,Vegetables,27,49950,None,Fever,14388,Internet,32782,7,Check food/donations
+2018-06-29,21,86,21,19,91225,70896,20329,0,None,0,0,Power Outage,None,0,Gas,19264,7,Stable
+2009-09-11,56,10,56,5,84013,57418,26595,46,Beans,46,71852,None,Diarrhea,28712,Gas,39253,10,Check food/donations
+2014-06-24,89,12,89,7,87863,31112,56751,77,Rice,77,145068,Water Shortage,Malaria,16971,Gas,35139,10,Check food/donations
+2010-11-17,34,64,34,32,101237,23220,78017,0,None,0,0,None,Malaria,25380,Water,11854,6,Stable
+2009-07-01,65,19,65,5,60062,23465,36597,46,Beans,46,90068,None,Fever,24022,Internet,26311,4,Check food/donations
+2011-02-20,41,24,41,24,144766,107477,37289,17,Maize Flour,17,28832,None,Diarrhea,1019,Water,41972,5,Check food/donations
+2001-05-21,74,11,74,11,108123,102722,5401,63,Beans,63,97713,None,Flu,251,Internet,21522,4,Check food/donations
+2019-09-24,88,66,88,6,84033,84334,-301,22,Vegetables,22,38984,None,Diarrhea,23319,Gas,34564,10,Check food/donations
+2013-02-24,26,48,26,17,51689,109528,-57839,0,None,0,0,None,None,0,Electricity,32800,5,Check food/donations
+2020-04-02,38,60,38,27,41368,69298,-27930,0,None,0,0,None,Fever,25390,Internet,48884,5,Check food/donations
+2006-01-04,92,17,92,10,98409,37669,60740,75,Maize Flour,75,135900,None,Fever,22321,Water,49945,6,Check food/donations
+2006-02-16,27,42,27,24,128092,64124,63968,0,None,0,0,None,Malaria,5750,Gas,32357,5,Stable
+2009-02-27,44,72,44,7,21153,108309,-87156,0,None,0,0,None,Flu,8551,Water,28502,7,Check food/donations
+2016-05-11,55,11,55,9,111075,46605,64470,44,Vegetables,44,75768,None,Fever,19221,Electricity,47083,4,Check food/donations
+2019-08-27,94,81,94,36,19808,69864,-50056,13,Maize Flour,13,22165,Water Shortage,Fever,24238,Electricity,21572,8,Check food/donations
+2011-11-19,54,64,54,15,72152,81014,-8862,0,None,0,0,Power Outage,Malaria,12694,Electricity,13958,10,Check food/donations
+2009-02-21,32,31,32,28,6515,32935,-26420,1,Vegetables,1,1532,None,Diarrhea,5575,Electricity,16550,7,Check food/donations
+2017-03-09,30,58,30,40,37895,73014,-35119,0,None,0,0,Water Shortage,Malaria,8101,Gas,42901,7,Check food/donations
+2004-06-29,70,23,70,19,19109,69676,-50567,47,Rice,47,92449,None,Diarrhea,27181,Internet,33034,9,Check food/donations
+2002-09-15,46,89,46,28,74721,46172,28549,0,None,0,0,Water Shortage,Fever,15054,Electricity,23482,8,Stable
+2016-06-25,45,96,45,7,136993,74429,62564,0,None,0,0,None,Fever,7178,Water,12754,5,Stable
+2017-12-25,52,39,52,28,72731,107265,-34534,13,Rice,13,25402,None,Diarrhea,22968,Gas,30379,3,Check food/donations
+2019-12-11,54,40,54,5,111802,32278,79524,14,Beans,14,24402,Power Outage,None,0,Internet,28357,4,Check food/donations
+2017-05-23,37,48,37,19,96632,103591,-6959,0,None,0,0,None,Flu,15754,Water,30170,8,Check food/donations
+2018-03-08,35,54,35,26,6145,117987,-111842,0,None,0,0,None,Diarrhea,22480,Water,37312,6,Check food/donations
+2005-07-29,86,83,86,12,7002,43116,-36114,3,Vegetables,3,4860,Power Outage,Flu,15967,Gas,10743,8,Check food/donations
+2019-12-01,80,43,80,35,63685,108665,-44980,37,Maize Flour,37,68783,None,None,0,Water,38170,8,Check food/donations
+2012-03-27,64,100,64,19,75055,26028,49027,0,None,0,0,None,Malaria,3609,Gas,42022,6,Stable
+2001-03-22,49,51,49,6,51886,26488,25398,0,None,0,0,Power Outage,Diarrhea,22305,Water,12832,9,Stable
+2020-01-16,75,63,75,28,90066,56660,33406,12,Rice,12,19788,None,Fever,14963,Gas,39883,3,Check food/donations
+2000-01-13,79,16,79,12,35223,48170,-12947,63,Vegetables,63,110250,Fire,Fever,11656,Electricity,19091,5,Check food/donations
+2013-09-05,80,32,80,13,72793,30682,42111,48,Vegetables,48,74592,Power Outage,None,0,Electricity,10874,5,Check food/donations
+2020-02-16,39,14,39,12,24414,43290,-18876,25,Vegetables,25,47825,Sickness,Flu,29824,Electricity,47527,6,Check food/donations
+2008-12-24,92,57,92,13,67503,36356,31147,35,Maize Flour,35,68495,None,None,0,Electricity,18157,6,Check food/donations
+2007-01-01,57,27,57,20,61357,45055,16302,30,Beans,30,50430,Sickness,Diarrhea,15909,Electricity,22165,5,Check food/donations
+2001-01-15,90,13,90,6,115503,108184,7319,77,Vegetables,77,116501,None,Fever,25454,Electricity,21890,10,Check food/donations
+2004-04-12,36,75,36,29,66824,85726,-18902,0,None,0,0,None,Diarrhea,6152,Electricity,10565,9,Check food/donations
+1999-06-20,23,82,23,37,3397,27323,-23926,0,None,0,0,Power Outage,Fever,23370,Internet,33642,5,Check food/donations
+2016-11-17,30,14,30,11,109121,79880,29241,16,Vegetables,16,31552,None,Fever,11352,Gas,45080,6,Check food/donations
+2009-03-27,71,20,71,10,99010,112946,-13936,51,Vegetables,51,92820,None,Flu,14727,Water,36655,8,Check food/donations
+2013-03-12,78,48,78,29,59467,84308,-24841,30,Vegetables,30,50940,Power Outage,None,0,Water,23377,8,Check food/donations
+2011-08-14,25,71,25,20,60991,93140,-32149,0,None,0,0,None,Flu,16432,Gas,39310,3,Check food/donations
+2012-02-25,61,71,61,14,83280,100847,-17567,0,None,0,0,None,Flu,937,Internet,14546,6,Check food/donations
+2003-10-15,63,31,63,30,86785,110963,-24178,32,Maize Flour,32,54080,Sickness,Malaria,13487,Gas,38332,9,Check food/donations
+2012-05-02,23,72,23,33,130493,103262,27231,0,None,0,0,None,Malaria,27267,Internet,34838,4,Stable
+2011-11-20,94,58,94,33,15297,28990,-13693,36,Beans,36,70488,Sickness,Diarrhea,11898,Electricity,49913,9,Check food/donations
+2018-07-19,58,62,58,17,94516,94092,424,0,None,0,0,None,Fever,8797,Gas,18001,10,Stable
+2004-06-19,58,48,58,6,37948,35323,2625,10,Maize Flour,10,15360,None,Fever,14959,Gas,27906,10,Check food/donations
+2012-01-01,68,26,68,19,82132,66343,15789,42,Maize Flour,42,64470,None,Flu,430,Electricity,28605,7,Check food/donations
+2004-05-29,33,39,33,23,132208,71968,60240,0,None,0,0,Sickness,Flu,16672,Electricity,36782,10,Stable
+2002-05-04,38,77,38,8,17525,49610,-32085,0,None,0,0,None,None,0,Internet,39004,6,Check food/donations
+2015-08-19,49,84,49,16,40569,87127,-46558,0,None,0,0,Power Outage,Malaria,9144,Water,37884,5,Check food/donations
+2011-07-13,48,36,48,16,85739,39635,46104,12,Rice,12,21732,None,Diarrhea,11416,Water,19315,10,Check food/donations
+2000-11-25,29,69,29,24,86640,84004,2636,0,None,0,0,None,Malaria,4278,Water,47359,3,Stable
+2015-03-14,96,97,96,12,140291,89459,50832,0,None,0,0,Sickness,Fever,13093,Electricity,12818,10,Stable
+2011-09-10,22,73,22,31,11835,75507,-63672,0,None,0,0,None,None,0,Electricity,26860,10,Check food/donations
+2000-11-15,100,86,100,13,98337,37618,60719,14,Vegetables,14,26558,None,Diarrhea,6853,Gas,21349,7,Check food/donations
+2007-05-21,92,99,92,38,60857,52200,8657,0,None,0,0,Power Outage,Flu,21211,Internet,19645,8,Stable
+2004-03-05,65,22,65,7,143663,117279,26384,43,Maize Flour,43,69359,None,None,0,Gas,22962,10,Check food/donations
+2019-04-30,23,66,23,25,93552,51206,42346,0,None,0,0,None,None,0,Internet,22355,8,Stable
+2018-06-25,99,61,99,27,35877,54771,-18894,38,Maize Flour,38,70984,None,Flu,11658,Gas,25870,4,Check food/donations
+2009-03-21,26,21,26,16,149662,47342,102320,5,Beans,5,8100,None,Malaria,16355,Gas,48699,6,Check food/donations
+2007-06-26,94,41,94,26,33370,73240,-39870,53,Maize Flour,53,104887,None,Fever,22865,Internet,28640,4,Check food/donations
+2011-05-07,54,31,54,31,1613,91113,-89500,23,Vegetables,23,45471,None,Fever,8682,Electricity,29874,4,Check food/donations
+2001-12-20,42,19,42,14,117904,43830,74074,23,Vegetables,23,43631,None,None,0,Electricity,39050,6,Check food/donations
+2020-11-22,70,51,70,32,190,32115,-31925,19,Rice,19,37867,None,Malaria,23108,Water,35923,8,Check food/donations
+2009-11-23,23,92,23,31,44041,67275,-23234,0,None,0,0,None,Fever,11106,Gas,39599,9,Check food/donations
+2004-05-04,21,25,21,7,130114,63448,66666,0,None,0,0,Sickness,Fever,24048,Water,37009,9,Stable
+2019-11-26,91,19,91,19,1365,75322,-73957,72,Maize Flour,72,140256,None,None,0,Gas,32999,8,Check food/donations
+2007-02-24,91,14,91,5,58847,90769,-31922,77,Rice,77,122815,Sickness,Diarrhea,9435,Gas,14260,5,Check food/donations
+2008-12-09,74,25,74,5,127183,76253,50930,49,Maize Flour,49,89768,None,Flu,799,Internet,28860,8,Check food/donations
+2013-08-09,45,60,45,18,75367,90665,-15298,0,None,0,0,Sickness,Diarrhea,2760,Electricity,22418,4,Check food/donations
+2012-07-22,76,75,76,8,26470,83293,-56823,1,Maize Flour,1,1958,None,None,0,Gas,39633,8,Check food/donations
+1999-12-13,30,13,30,11,92895,85112,7783,17,Vegetables,17,28220,None,Diarrhea,25021,Electricity,44590,3,Check food/donations
+2016-05-24,95,18,95,9,32567,35879,-3312,77,Maize Flour,77,132902,None,Flu,25379,Internet,19315,8,Check food/donations
+2002-01-31,27,12,27,7,123174,106544,16630,15,Rice,15,24390,None,Diarrhea,15381,Internet,30771,9,Check food/donations
+2011-10-14,96,96,96,23,10972,93307,-82335,0,None,0,0,None,None,0,Water,19723,6,Check food/donations
+2005-04-02,38,43,38,12,9772,20469,-10697,0,None,0,0,Power Outage,Fever,15431,Gas,48690,6,Check food/donations
+2018-06-01,21,51,21,23,135273,105012,30261,0,None,0,0,None,Malaria,470,Electricity,40017,9,Stable
+2003-04-16,40,40,40,24,135087,50291,84796,0,None,0,0,None,Flu,15402,Internet,42988,7,Stable
+2001-07-19,74,17,74,7,110202,103358,6844,57,Maize Flour,57,89889,Power Outage,Diarrhea,11960,Internet,15621,10,Check food/donations
+2018-08-07,84,10,84,6,36169,77176,-41007,74,Maize Flour,74,120842,None,None,0,Electricity,30655,5,Check food/donations
+2012-05-26,65,66,65,34,92920,95088,-2168,0,None,0,0,None,Diarrhea,12811,Electricity,29406,7,Check food/donations
+2001-02-25,46,46,46,20,4522,100701,-96179,0,None,0,0,None,Flu,12898,Electricity,38025,7,Check food/donations
+2020-05-24,90,21,90,20,2621,88043,-85422,69,Maize Flour,69,115644,Sickness,Fever,12673,Internet,20825,9,Check food/donations
+2001-04-03,62,11,62,11,108688,81690,26998,51,Beans,51,79560,None,None,0,Gas,27676,9,Check food/donations
+2006-01-15,65,69,65,9,1093,111937,-110844,0,None,0,0,None,Flu,27932,Gas,11859,6,Check food/donations
+2012-12-05,92,32,92,16,112598,35372,77226,60,Rice,60,107340,None,Fever,19591,Water,20255,7,Check food/donations
+2015-08-28,67,24,67,22,44904,22396,22508,43,Maize Flour,43,67209,None,None,0,Electricity,14633,7,Check food/donations
+2011-05-15,68,85,68,5,90868,89314,1554,0,None,0,0,None,Malaria,10705,Gas,16805,9,Stable
+2017-05-03,96,41,96,33,120198,54345,65853,55,Maize Flour,55,82500,None,Diarrhea,22062,Electricity,28974,8,Check food/donations
+1999-04-12,95,48,95,11,45047,37773,7274,47,Beans,47,88454,None,Diarrhea,21760,Gas,21625,3,Check food/donations
+2012-02-19,94,98,94,19,123917,25969,97948,0,None,0,0,Power Outage,None,0,Water,33164,9,Stable
+2017-12-27,59,16,59,5,68392,77426,-9034,43,Maize Flour,43,72670,Power Outage,Flu,27408,Electricity,38288,6,Check food/donations
+2015-07-13,42,78,42,8,81330,47013,34317,0,None,0,0,None,Fever,8051,Water,43168,9,Stable
+2007-09-02,26,44,26,33,128027,60423,67604,0,None,0,0,None,Fever,28731,Electricity,40001,10,Stable
+2000-02-08,87,29,87,18,96121,24864,71257,58,Beans,58,99586,Sickness,Fever,16123,Water,42388,3,Check food/donations
+2014-03-26,82,83,82,29,2745,25813,-23068,0,None,0,0,None,None,0,Internet,48582,6,Check food/donations
+2000-08-10,74,78,74,23,92479,34536,57943,0,None,0,0,None,Malaria,12352,Internet,37506,5,Stable
+2003-03-25,56,37,56,33,7859,85655,-77796,19,Vegetables,19,32870,Power Outage,Flu,6405,Electricity,44441,8,Check food/donations
+2012-09-30,23,20,23,11,140678,106750,33928,3,Vegetables,3,5706,None,Fever,22742,Water,16325,8,Check food/donations
+2006-11-06,63,76,63,18,146639,43316,103323,0,None,0,0,None,Flu,28967,Water,43269,3,Stable
+2014-02-11,34,28,34,15,141407,111569,29838,6,Maize Flour,6,9258,None,None,0,Water,20470,6,Check food/donations
+2004-01-22,74,61,74,40,8606,52528,-43922,13,Maize Flour,13,23712,None,Flu,11122,Water,43050,6,Check food/donations
+1999-12-22,43,17,43,9,51458,97394,-45936,26,Vegetables,26,39494,None,Flu,15198,Internet,24692,10,Check food/donations
+2016-07-25,90,58,90,12,144643,59632,85011,32,Rice,32,57120,Sickness,Fever,21637,Water,41569,8,Check food/donations
+2006-06-15,91,87,91,26,4267,28986,-24719,4,Maize Flour,4,7788,None,Malaria,10550,Electricity,13750,10,Check food/donations
+2002-06-16,98,62,98,25,113148,73721,39427,36,Beans,36,65592,None,Diarrhea,16226,Gas,41666,3,Check food/donations
+2010-01-01,74,65,74,40,88338,22671,65667,9,Beans,9,17397,Sickness,Fever,6188,Gas,41192,3,Check food/donations
+2002-12-25,69,77,69,32,128838,55778,73060,0,None,0,0,None,Fever,3531,Gas,33486,9,Stable
+1999-05-09,99,32,99,20,48522,58803,-10281,67,Maize Flour,67,131186,None,Flu,7253,Electricity,33405,8,Check food/donations
+2019-07-22,71,96,71,6,125522,74914,50608,0,None,0,0,Sickness,Flu,5553,Gas,46206,10,Stable
+2006-11-05,60,57,60,16,23542,104608,-81066,3,Maize Flour,3,4980,None,Flu,14083,Water,47787,3,Check food/donations
+2009-11-30,54,96,54,8,69360,73468,-4108,0,None,0,0,Fire,Flu,26727,Electricity,32061,4,Check food/donations
+2019-02-09,25,89,25,14,38284,44429,-6145,0,None,0,0,None,None,0,Gas,21622,5,Check food/donations
+2008-10-06,62,72,62,34,134741,56106,78635,0,None,0,0,Sickness,Diarrhea,2977,Internet,36631,5,Stable
+2019-01-20,30,18,30,10,59041,85204,-26163,12,Maize Flour,12,18228,None,Malaria,14882,Electricity,24612,9,Check food/donations
+2017-04-12,64,34,64,33,134999,94498,40501,30,Rice,30,55110,None,Flu,14286,Water,37122,7,Check food/donations
+2013-12-20,68,45,68,35,44672,35986,8686,23,Beans,23,45356,None,Fever,7049,Water,20960,6,Check food/donations
+2018-01-21,90,95,90,12,74895,94478,-19583,0,None,0,0,Fire,Diarrhea,17333,Internet,36555,9,Check food/donations
+2017-09-28,50,64,50,33,17673,49309,-31636,0,None,0,0,None,None,0,Water,16161,4,Check food/donations
+2020-12-04,97,43,97,24,24422,46223,-21801,54,Maize Flour,54,82458,Sickness,Malaria,2852,Electricity,30571,8,Check food/donations
+2013-06-27,23,19,23,6,14087,46221,-32134,4,Rice,4,6832,None,Malaria,12987,Internet,47189,3,Check food/donations
+2011-12-01,68,33,68,19,13068,62049,-48981,35,Vegetables,35,59675,None,Flu,18945,Internet,31069,10,Check food/donations
+2009-07-31,60,86,60,36,99442,49593,49849,0,None,0,0,None,Malaria,14302,Gas,32503,10,Stable
+2001-11-18,81,92,81,24,128321,53367,74954,0,None,0,0,Fire,Malaria,4546,Water,24880,4,Stable
+2005-09-29,27,35,27,28,93500,90346,3154,0,None,0,0,Water Shortage,Malaria,28930,Electricity,22811,9,Stable
+1999-05-04,65,78,65,10,104526,37784,66742,0,None,0,0,None,Diarrhea,22488,Gas,21768,10,Stable
+2007-09-20,63,81,63,27,67228,98766,-31538,0,None,0,0,Power Outage,Flu,26102,Internet,25730,6,Check food/donations
+2015-06-12,96,96,96,15,69374,61659,7715,0,None,0,0,Power Outage,Malaria,3884,Internet,36085,6,Stable
+2007-04-22,26,39,26,36,59945,68008,-8063,0,None,0,0,Power Outage,Malaria,21122,Water,30270,8,Check food/donations
+2004-07-31,24,10,24,9,108129,45699,62430,14,Rice,14,27636,None,Flu,20708,Water,20999,10,Check food/donations
+2020-07-04,78,19,78,13,142429,114600,27829,59,Beans,59,103309,None,Malaria,24980,Gas,21444,6,Check food/donations
+2006-07-31,96,18,96,5,48588,45316,3272,78,Vegetables,78,135720,None,Diarrhea,1106,Electricity,33558,5,Check food/donations
+2013-08-13,79,86,79,21,70445,56086,14359,0,None,0,0,None,Fever,2303,Electricity,48198,6,Stable
+2014-09-13,53,79,53,8,135338,71749,63589,0,None,0,0,None,Diarrhea,5329,Internet,19997,5,Stable
+1999-10-01,32,35,32,9,133396,40706,92690,0,None,0,0,None,Flu,1803,Water,34974,9,Stable
+2019-06-27,21,54,21,12,36125,79495,-43370,0,None,0,0,None,Fever,20180,Water,27215,9,Check food/donations
+2014-12-29,100,31,100,21,28,20288,-20260,69,Beans,69,116817,None,Fever,26950,Internet,26571,8,Check food/donations
+2005-05-24,80,79,80,38,143836,43198,100638,1,Rice,1,1664,Sickness,Flu,7814,Internet,36449,7,Check food/donations
+2013-06-23,48,11,48,10,61961,84809,-22848,37,Beans,37,71521,None,None,0,Electricity,44154,6,Check food/donations
+1999-06-22,64,11,64,11,36240,62455,-26215,53,Vegetables,53,85065,None,Diarrhea,13146,Electricity,47193,3,Check food/donations
+2002-02-04,57,75,57,34,111206,92911,18295,0,None,0,0,None,Diarrhea,7529,Internet,11139,10,Stable
+2006-03-20,79,72,79,39,87269,82629,4640,7,Vegetables,7,12488,Fire,Diarrhea,11014,Internet,39451,4,Check food/donations
+2003-12-25,69,14,69,5,22316,41532,-19216,55,Vegetables,55,84425,None,Flu,6482,Internet,16926,9,Check food/donations
+2009-11-29,74,32,74,28,69246,107940,-38694,42,Rice,42,67074,Power Outage,Flu,15085,Internet,44388,4,Check food/donations
+2017-04-06,90,17,90,14,123732,24288,99444,73,Rice,73,109865,Fire,Fever,24409,Electricity,24145,8,Check food/donations
+2003-09-26,86,50,86,37,109256,35392,73864,36,Maize Flour,36,71100,None,Fever,2590,Gas,14688,8,Check food/donations
+2013-06-11,48,72,48,25,80702,54268,26434,0,None,0,0,None,Diarrhea,21404,Electricity,21274,3,Stable
+2014-11-07,31,16,31,9,134039,21367,112672,15,Maize Flour,15,24660,None,Flu,316,Gas,28945,4,Check food/donations
+2011-07-18,83,15,83,9,66921,35431,31490,68,Vegetables,68,103156,None,Fever,25688,Gas,49313,10,Check food/donations
+2015-04-05,23,73,23,26,36039,76020,-39981,0,None,0,0,None,Fever,7547,Electricity,20911,10,Check food/donations
+2015-09-02,67,52,67,5,13550,40968,-27418,15,Beans,15,26595,Sickness,Malaria,13104,Electricity,48477,7,Check food/donations
+2004-05-29,90,79,90,32,17535,24938,-7403,11,Beans,11,18073,None,Flu,17031,Water,37205,4,Check food/donations
+2010-04-12,30,73,30,21,73701,24198,49503,0,None,0,0,None,Diarrhea,5189,Electricity,13686,10,Stable
+2011-06-13,82,52,82,33,135066,50534,84532,30,Vegetables,30,47280,None,Flu,24129,Water,12235,7,Check food/donations
+2005-07-29,69,95,69,19,119952,37066,82886,0,None,0,0,None,Flu,2270,Gas,36792,6,Stable
+2001-11-13,100,69,100,17,41173,65470,-24297,31,Maize Flour,31,60636,None,None,0,Water,21061,10,Check food/donations
+2000-09-12,31,87,31,17,147009,77606,69403,0,None,0,0,None,None,0,Water,16401,7,Stable
+2013-06-01,69,41,69,23,77795,32597,45198,28,Rice,28,53144,Sickness,Fever,16172,Water,31268,4,Check food/donations
+2011-07-26,74,64,74,13,113231,63998,49233,10,Rice,10,16270,None,Diarrhea,11418,Internet,19599,10,Check food/donations
+2012-12-27,49,64,49,12,3501,33816,-30315,0,None,0,0,None,Flu,21426,Electricity,20135,4,Check food/donations
+2003-01-19,21,46,21,29,12679,68031,-55352,0,None,0,0,None,Diarrhea,7077,Internet,45006,10,Check food/donations
+2006-07-10,36,34,36,18,77544,59620,17924,2,Maize Flour,2,3558,None,Malaria,5464,Internet,22563,5,Check food/donations
+2017-08-19,28,70,28,31,72160,94047,-21887,0,None,0,0,None,Flu,17817,Electricity,43891,4,Check food/donations
+2010-10-25,55,22,55,18,121872,54510,67362,33,Rice,33,60555,Power Outage,Flu,18165,Gas,39214,5,Check food/donations
+2014-08-20,35,95,35,35,33736,95230,-61494,0,None,0,0,None,Malaria,3829,Water,37447,4,Check food/donations
+1999-05-05,71,86,71,33,100732,29967,70765,0,None,0,0,None,None,0,Gas,41302,6,Stable
+2015-06-26,21,56,21,22,5544,64646,-59102,0,None,0,0,Sickness,Fever,13218,Gas,18482,8,Check food/donations
+2013-08-18,28,28,28,9,18724,39845,-21121,0,None,0,0,None,Flu,23591,Internet,47454,9,Check food/donations
+2019-03-19,40,15,40,15,140244,34939,105305,25,Vegetables,25,46850,None,Malaria,24600,Internet,34794,3,Check food/donations
+2020-02-11,35,72,35,19,26786,96502,-69716,0,None,0,0,None,Fever,25652,Internet,45815,10,Check food/donations
+2009-12-10,49,61,49,11,131324,89663,41661,0,None,0,0,Sickness,Fever,11746,Gas,39165,8,Stable
+2005-02-14,51,86,51,9,87458,66582,20876,0,None,0,0,None,Fever,16416,Gas,45579,3,Stable
+2019-11-19,35,85,35,7,29450,34561,-5111,0,None,0,0,None,Fever,8580,Gas,36047,5,Check food/donations
+2017-07-29,85,22,85,18,22512,36145,-13633,63,Maize Flour,63,117054,Fire,Diarrhea,4204,Water,10931,9,Check food/donations
+2006-01-12,50,31,50,28,932,113982,-113050,19,Rice,19,30134,None,None,0,Gas,18046,9,Check food/donations
+2011-01-09,60,70,60,16,37394,118790,-81396,0,None,0,0,Fire,Malaria,8773,Water,41716,7,Check food/donations
+2015-11-21,59,94,59,15,83457,44127,39330,0,None,0,0,Water Shortage,Flu,27754,Electricity,17177,9,Stable
+2018-01-19,37,87,37,20,138472,66281,72191,0,None,0,0,None,Malaria,14799,Water,17381,8,Stable
+2007-11-23,25,23,25,11,121263,68258,53005,2,Rice,2,3248,None,Fever,19365,Electricity,13349,8,Check food/donations
+2017-11-06,47,62,47,38,53809,42735,11074,0,None,0,0,None,Malaria,23044,Internet,45134,8,Stable
+2015-01-03,57,27,57,24,142614,28168,114446,30,Beans,30,59160,None,Diarrhea,17860,Internet,44607,9,Check food/donations
+2007-09-21,88,27,88,25,49523,23590,25933,61,Rice,61,101809,None,Flu,10777,Internet,18849,9,Check food/donations
+2009-12-11,27,35,27,7,58338,65866,-7528,0,None,0,0,Sickness,Fever,2099,Internet,14887,10,Check food/donations
+2007-07-08,98,84,98,16,15081,32841,-17760,14,Beans,14,26894,None,Fever,9582,Gas,25142,7,Check food/donations
+2006-04-07,98,56,98,12,30308,40598,-10290,42,Maize Flour,42,68082,None,Flu,16877,Internet,12678,9,Check food/donations
+2012-01-16,53,48,53,9,95806,24196,71610,5,Rice,5,9970,Sickness,Diarrhea,22484,Electricity,28775,3,Check food/donations
+2011-11-28,86,35,86,30,109812,33626,76186,51,Vegetables,51,98583,None,Malaria,20353,Electricity,43811,10,Check food/donations
+2001-06-06,32,55,32,27,56141,54276,1865,0,None,0,0,None,None,0,Water,34189,9,Stable
+2011-11-01,60,67,60,30,132984,109586,23398,0,None,0,0,Power Outage,Flu,26082,Internet,34309,8,Stable
+2004-10-04,93,62,93,38,134380,76845,57535,31,Maize Flour,31,46996,None,Flu,17543,Internet,40453,10,Check food/donations
+2006-12-17,75,48,75,17,93574,93441,133,27,Maize Flour,27,41931,None,Flu,27692,Gas,44644,9,Check food/donations
+2013-01-06,51,30,51,26,63953,116295,-52342,21,Rice,21,37821,None,Malaria,19478,Electricity,29844,3,Check food/donations
+2012-04-21,38,49,38,15,68430,56670,11760,0,None,0,0,None,None,0,Gas,46432,3,Stable
+2005-03-31,34,73,34,32,43909,86022,-42113,0,None,0,0,None,Flu,529,Electricity,28362,3,Check food/donations
+2020-04-06,94,35,94,10,148690,101505,47185,59,Beans,59,97232,None,Malaria,10752,Water,42653,8,Check food/donations
+2020-10-10,36,83,36,19,99903,108349,-8446,0,None,0,0,Fire,Diarrhea,6546,Electricity,17372,7,Check food/donations
+2012-05-23,23,88,23,16,53682,29190,24492,0,None,0,0,None,Flu,25564,Electricity,36751,10,Stable
+2018-07-26,96,61,96,23,16894,51437,-34543,35,Beans,35,63980,None,Diarrhea,26874,Internet,26409,4,Check food/donations
+2006-01-10,20,78,20,36,56416,39000,17416,0,None,0,0,None,Fever,2212,Gas,47581,7,Stable
+2011-06-29,79,32,79,9,73907,51585,22322,47,Rice,47,81404,None,None,0,Electricity,22740,9,Check food/donations
+2003-07-25,56,87,56,31,104417,23823,80594,0,None,0,0,None,None,0,Water,35951,6,Stable
+2012-04-01,82,12,82,8,35433,102961,-67528,70,Maize Flour,70,108010,None,Malaria,15177,Water,22463,3,Check food/donations
+2001-04-23,45,18,45,12,138643,45230,93413,27,Beans,27,42849,Water Shortage,None,0,Water,45885,3,Check food/donations
+2009-03-24,30,72,30,11,133282,22833,110449,0,None,0,0,None,Flu,22611,Internet,28863,8,Stable
+2004-03-23,42,71,42,17,56279,32246,24033,0,None,0,0,None,Diarrhea,24555,Electricity,43034,10,Stable
+2012-11-27,82,40,82,9,30579,50745,-20166,42,Rice,42,67830,None,Malaria,19107,Water,18580,9,Check food/donations
+2018-04-28,23,87,23,34,101268,73349,27919,0,None,0,0,Power Outage,Flu,15015,Water,10887,7,Stable
+2005-01-31,23,66,23,14,104839,118581,-13742,0,None,0,0,Sickness,Diarrhea,7384,Electricity,21551,5,Check food/donations
+2000-07-21,92,51,92,13,77627,97656,-20029,41,Vegetables,41,64001,None,Fever,14648,Electricity,27124,5,Check food/donations
+2001-09-07,97,96,97,24,148025,96030,51995,1,Maize Flour,1,1535,Water Shortage,Fever,5621,Electricity,24612,7,Check food/donations
+2012-03-05,84,49,84,27,71105,61589,9516,35,Vegetables,35,68005,None,Fever,22986,Water,32684,6,Check food/donations
+2005-07-24,20,47,20,36,139287,54344,84943,0,None,0,0,None,Malaria,17022,Internet,17284,3,Stable
+2005-09-17,45,67,45,26,42785,118326,-75541,0,None,0,0,Power Outage,Malaria,11081,Water,19645,3,Check food/donations
+2008-10-17,97,58,97,37,135401,115753,19648,39,Rice,39,75894,None,Flu,29723,Electricity,37814,4,Check food/donations
+2009-10-07,87,23,87,7,121848,28671,93177,64,Beans,64,105728,None,Flu,2550,Internet,30579,5,Check food/donations
+2004-02-13,31,32,31,19,119647,81162,38485,0,None,0,0,None,Fever,17948,Electricity,47693,10,Stable
+2020-08-09,41,11,41,5,28398,44275,-15877,30,Beans,30,47040,None,Fever,8138,Gas,39733,8,Check food/donations
+2006-12-25,25,37,25,31,58157,20917,37240,0,None,0,0,None,Malaria,24659,Internet,42776,5,Stable
+2014-12-05,72,75,72,32,136930,75310,61620,0,None,0,0,None,Malaria,5439,Electricity,38163,5,Stable
+2019-02-23,36,71,36,12,26762,68474,-41712,0,None,0,0,Sickness,Fever,446,Water,38937,6,Check food/donations
+2003-06-08,72,10,72,7,110584,94509,16075,62,Vegetables,62,93186,None,Flu,28926,Water,27954,3,Check food/donations
+2006-10-05,80,25,80,23,112357,67309,45048,55,Beans,55,91025,None,None,0,Water,41244,3,Check food/donations
+2015-10-01,45,84,45,34,59584,88520,-28936,0,None,0,0,None,Flu,8306,Water,15925,7,Check food/donations
+2005-07-04,69,51,69,15,41452,49513,-8061,18,Maize Flour,18,33372,Water Shortage,Flu,21920,Water,11861,8,Check food/donations
+2013-10-19,96,91,96,7,129741,98642,31099,5,Beans,5,9685,None,None,0,Water,19646,6,Check food/donations
+2013-12-16,30,37,30,29,36460,27347,9113,0,None,0,0,None,Malaria,26222,Internet,40533,8,Stable
+2006-12-22,76,21,76,10,50631,74727,-24096,55,Vegetables,55,92840,None,Malaria,25230,Water,12758,4,Check food/donations
+2016-08-09,51,53,51,16,88692,98296,-9604,0,None,0,0,None,Flu,6216,Gas,19226,7,Check food/donations
+2008-08-31,41,33,41,30,108262,112467,-4205,8,Vegetables,8,15984,None,Malaria,14299,Water,41178,9,Check food/donations
+2011-11-14,28,52,28,10,29459,104560,-75101,0,None,0,0,Sickness,Diarrhea,2050,Gas,47186,8,Check food/donations
+2009-02-08,49,84,49,6,71676,96949,-25273,0,None,0,0,Sickness,Flu,26756,Electricity,28878,10,Check food/donations
+2009-04-06,44,19,44,11,57935,74301,-16366,25,Rice,25,47600,Sickness,Flu,8372,Water,41971,7,Check food/donations
+2015-05-15,64,21,64,8,61521,28383,33138,43,Rice,43,74046,None,Malaria,2356,Gas,12529,10,Check food/donations
+1999-01-10,59,23,59,14,98445,37391,61054,36,Rice,36,65196,None,None,0,Water,33039,6,Check food/donations
+2012-07-05,90,60,90,13,120085,61491,58594,30,Maize Flour,30,46590,Sickness,Fever,17461,Gas,11193,7,Check food/donations
+2016-06-17,86,82,86,5,13998,42665,-28667,4,Beans,4,7528,None,Diarrhea,24481,Water,10018,4,Check food/donations
+2013-06-26,41,24,41,23,106708,41312,65396,17,Vegetables,17,28628,Sickness,None,0,Water,10740,5,Check food/donations
+2009-03-31,58,18,58,17,117241,27263,89978,40,Maize Flour,40,60560,None,Diarrhea,10913,Electricity,24799,10,Check food/donations
+2002-05-14,99,91,99,20,10833,119116,-108283,8,Beans,8,15168,None,Malaria,3472,Electricity,12873,3,Check food/donations
+2001-11-18,58,72,58,21,36787,78243,-41456,0,None,0,0,Sickness,Malaria,8621,Internet,42100,7,Check food/donations
+2003-01-25,60,13,60,9,42281,104567,-62286,47,Maize Flour,47,85352,None,Diarrhea,27393,Electricity,12634,5,Check food/donations
+2003-09-26,73,57,73,21,5973,90907,-84934,16,Beans,16,30544,None,Diarrhea,7284,Internet,46868,6,Check food/donations
+2008-05-31,83,37,83,22,19166,45261,-26095,46,Beans,46,77004,None,Flu,5074,Gas,10339,3,Check food/donations
+2019-12-09,98,77,98,35,28824,85210,-56386,21,Maize Flour,21,34524,None,Flu,7751,Water,49569,4,Check food/donations
+2002-02-17,42,46,42,25,7133,90639,-83506,0,None,0,0,Power Outage,None,0,Water,27757,9,Check food/donations
+2001-03-03,27,80,27,22,130888,51973,78915,0,None,0,0,None,Malaria,3448,Gas,38838,9,Stable
+2006-06-10,59,77,59,36,136988,25776,111212,0,None,0,0,None,Flu,23352,Internet,25679,3,Stable
+2006-07-18,89,59,89,6,108517,63881,44636,30,Beans,30,59610,None,Flu,7388,Water,47611,6,Check food/donations
+2007-07-17,63,71,63,8,141554,95448,46106,0,None,0,0,Sickness,Diarrhea,14515,Electricity,31614,9,Stable
+2011-06-05,50,68,50,23,75016,28568,46448,0,None,0,0,None,Fever,29513,Gas,30568,10,Stable
+2014-06-25,39,79,39,10,35539,107124,-71585,0,None,0,0,None,Fever,21384,Water,21362,3,Check food/donations
+2016-01-10,34,93,34,25,136083,105597,30486,0,None,0,0,Power Outage,Fever,23815,Internet,41636,7,Stable
+2007-10-17,36,31,36,9,70208,42082,28126,5,Maize Flour,5,7810,None,Malaria,8094,Gas,36806,6,Check food/donations
+2016-01-05,96,23,96,13,148664,40341,108323,73,Vegetables,73,120596,Power Outage,None,0,Electricity,49224,8,Check food/donations
+2009-02-11,55,90,55,18,135461,86870,48591,0,None,0,0,None,None,0,Electricity,38214,7,Stable
+2009-11-13,74,54,74,5,32280,58355,-26075,20,Maize Flour,20,35500,None,None,0,Electricity,21223,3,Check food/donations
+2003-01-16,28,11,28,8,39374,106760,-67386,17,Rice,17,27914,Sickness,Diarrhea,14809,Gas,33542,8,Check food/donations
+2000-12-02,67,63,67,21,47604,119196,-71592,4,Beans,4,7440,Fire,Fever,13644,Electricity,19744,8,Check food/donations
+2006-05-10,35,27,35,19,47115,22878,24237,8,Maize Flour,8,13976,None,Malaria,4672,Internet,38407,3,Check food/donations
+2007-02-02,100,11,100,8,135373,22510,112863,89,Rice,89,145871,Power Outage,Malaria,9232,Internet,37076,3,Check food/donations
+2006-05-01,39,71,39,32,7390,85869,-78479,0,None,0,0,None,Fever,25750,Water,27076,10,Check food/donations
+2016-02-13,51,19,51,7,88769,75432,13337,32,Beans,32,48928,Fire,Malaria,25202,Water,47576,7,Check food/donations
+2010-06-06,25,29,25,5,1104,41759,-40655,0,None,0,0,Sickness,Malaria,29598,Internet,16057,4,Check food/donations
+2009-06-02,62,15,62,10,63384,98274,-34890,47,Vegetables,47,85305,Power Outage,Flu,26477,Water,19524,9,Check food/donations
+2017-04-30,79,59,79,33,75993,39625,36368,20,Maize Flour,20,39800,None,None,0,Internet,27008,9,Check food/donations
+2002-09-15,73,85,73,25,111655,119219,-7564,0,None,0,0,None,Flu,9763,Electricity,42554,10,Check food/donations
+2012-05-28,62,92,62,27,66726,114522,-47796,0,None,0,0,None,Diarrhea,18934,Water,18152,6,Check food/donations
+2017-10-26,90,56,90,26,85423,32488,52935,34,Vegetables,34,67966,Power Outage,Diarrhea,212,Internet,26021,8,Check food/donations
+2000-05-09,30,27,30,5,54253,88670,-34417,3,Maize Flour,3,5844,Fire,Fever,24195,Internet,40322,9,Check food/donations
+2011-09-02,31,77,31,29,76450,114631,-38181,0,None,0,0,None,None,0,Gas,26984,4,Check food/donations
+2004-03-28,22,86,22,6,148173,91844,56329,0,None,0,0,Sickness,Diarrhea,21544,Gas,21297,4,Stable
+2016-04-08,61,13,61,13,68642,72614,-3972,48,Rice,48,76464,None,Fever,1136,Gas,35395,5,Check food/donations
+2000-04-14,28,45,28,11,123853,114625,9228,0,None,0,0,None,Flu,29602,Gas,36474,9,Stable
+2000-07-23,60,29,60,6,48407,88814,-40407,31,Maize Flour,31,55955,None,Diarrhea,4413,Water,25498,9,Check food/donations
+2006-08-12,54,83,54,22,41404,104780,-63376,0,None,0,0,Sickness,Diarrhea,29711,Electricity,27924,6,Check food/donations
+2015-08-26,39,37,39,26,99879,40557,59322,2,Rice,2,3678,None,None,0,Water,21805,4,Check food/donations
+2018-08-03,43,94,43,39,23544,46333,-22789,0,None,0,0,None,Malaria,19577,Internet,45550,5,Check food/donations
+2013-02-16,82,43,82,7,53856,89541,-35685,39,Maize Flour,39,69342,None,Diarrhea,12201,Internet,49755,7,Check food/donations
+2015-12-12,24,74,24,15,125419,78433,46986,0,None,0,0,None,Malaria,1206,Gas,46219,7,Stable
+2012-02-07,97,30,97,15,15702,69322,-53620,67,Rice,67,117183,None,Flu,634,Gas,42830,9,Check food/donations
+2012-08-11,74,94,74,27,34199,94189,-59990,0,None,0,0,Fire,None,0,Water,45292,4,Check food/donations
+2008-10-12,71,35,71,11,25220,79848,-54628,36,Vegetables,36,57312,None,Malaria,21449,Gas,39741,3,Check food/donations
+2007-07-31,100,32,100,11,42611,27135,15476,68,Rice,68,133280,None,Flu,10632,Internet,18449,4,Check food/donations
+2020-05-18,80,13,80,11,72105,95137,-23032,67,Maize Flour,67,108205,None,Fever,2383,Gas,26115,4,Check food/donations
+2015-04-17,59,57,59,29,23658,88388,-64730,2,Rice,2,3762,None,Diarrhea,4303,Internet,31185,4,Check food/donations
+2013-12-22,65,80,65,18,112731,72866,39865,0,None,0,0,None,Fever,29976,Internet,43259,10,Stable
+2000-10-16,40,99,40,35,38974,87121,-48147,0,None,0,0,Fire,None,0,Gas,48212,9,Check food/donations
+2013-05-26,57,42,57,7,141330,40871,100459,15,Beans,15,27540,None,Malaria,7724,Internet,49852,6,Check food/donations
+2006-10-22,60,50,60,18,14912,38870,-23958,10,Beans,10,17030,None,Malaria,12518,Internet,14098,4,Check food/donations
+2020-06-04,40,29,40,28,67453,62055,5398,11,Rice,11,18887,None,Fever,14133,Internet,32367,4,Check food/donations
+2016-04-29,79,90,79,22,87545,53467,34078,0,None,0,0,Fire,Flu,24610,Water,41891,8,Stable
+2015-08-12,97,61,97,23,36228,101942,-65714,36,Maize Flour,36,65304,None,Malaria,3461,Gas,11266,9,Check food/donations
+2010-04-04,93,29,93,9,112288,70034,42254,64,Beans,64,104576,None,Malaria,8071,Gas,17504,4,Check food/donations
+2019-03-06,23,88,23,30,90848,35664,55184,0,None,0,0,None,None,0,Internet,49000,6,Stable
+2005-11-03,41,82,41,10,149691,47478,102213,0,None,0,0,None,Fever,23346,Internet,39323,6,Stable
+1999-10-23,41,60,41,16,79933,110757,-30824,0,None,0,0,Water Shortage,Fever,18389,Gas,10184,8,Check food/donations
+2016-09-18,96,78,96,35,9623,33340,-23717,18,Beans,18,32724,None,Malaria,909,Gas,35077,3,Check food/donations
+2009-01-26,20,59,20,12,91595,50178,41417,0,None,0,0,Fire,Flu,10905,Electricity,48041,6,Stable
+2002-04-04,21,39,21,33,130859,119794,11065,0,None,0,0,None,Malaria,22224,Electricity,38472,5,Stable
+1999-12-28,59,92,59,40,145593,104947,40646,0,None,0,0,None,Flu,18513,Electricity,30698,4,Stable
+2015-12-04,27,83,27,29,31931,80708,-48777,0,None,0,0,None,Flu,28721,Electricity,16874,3,Check food/donations
+2000-08-11,77,85,77,21,72040,46786,25254,0,None,0,0,None,None,0,Electricity,16911,4,Stable
+2005-05-10,25,14,25,5,123852,47006,76846,11,Maize Flour,11,17776,None,Flu,5222,Electricity,49972,10,Check food/donations
+1999-11-14,56,55,56,9,35211,25109,10102,1,Vegetables,1,1824,None,Fever,29971,Gas,46981,3,Check food/donations
+2020-05-12,47,13,47,8,105669,86155,19514,34,Maize Flour,34,51816,None,None,0,Water,27949,8,Check food/donations
+2014-06-10,67,100,67,5,72701,20715,51986,0,None,0,0,None,None,0,Electricity,16379,6,Stable
+2000-12-24,72,56,72,37,26293,119835,-93542,16,Rice,16,31744,Power Outage,Malaria,18800,Electricity,46808,10,Check food/donations
+2010-06-12,49,47,49,34,75508,20626,54882,2,Vegetables,2,3502,None,Flu,5935,Water,29877,5,Check food/donations
+2001-01-29,82,84,82,8,2756,119914,-117158,0,None,0,0,None,Flu,12125,Gas,46195,3,Check food/donations
+2012-07-19,58,35,58,12,61932,37776,24156,23,Rice,23,39859,Sickness,Fever,17459,Water,40109,3,Check food/donations
+2002-06-21,27,54,27,37,211,70659,-70448,0,None,0,0,None,Diarrhea,20851,Internet,40307,5,Check food/donations
+2014-02-08,39,10,39,9,125925,70273,55652,29,Maize Flour,29,47647,Fire,None,0,Water,17693,3,Check food/donations
+2005-04-26,44,48,44,20,147965,108522,39443,0,None,0,0,None,None,0,Internet,27914,3,Stable
+2010-02-20,60,24,60,5,100477,102256,-1779,36,Beans,36,61992,None,Malaria,16490,Gas,33271,6,Check food/donations
+2020-02-24,45,48,45,25,141972,109849,32123,0,None,0,0,None,None,0,Water,18037,8,Stable
+2017-03-28,26,67,26,31,141702,94008,47694,0,None,0,0,Fire,Malaria,22152,Electricity,28064,6,Stable
+2019-01-07,58,47,58,25,38365,112916,-74551,11,Maize Flour,11,18700,None,None,0,Water,49465,8,Check food/donations
+2010-06-11,66,75,66,23,35010,85260,-50250,0,None,0,0,Sickness,Fever,21780,Gas,38651,7,Check food/donations
+2008-08-13,53,68,53,21,81602,113218,-31616,0,None,0,0,Sickness,None,0,Internet,26068,3,Check food/donations
+2008-08-27,78,88,78,40,9659,61352,-51693,0,None,0,0,None,None,0,Water,20717,5,Check food/donations
+2019-10-11,39,95,39,12,14351,115045,-100694,0,None,0,0,None,Flu,17865,Electricity,19776,7,Check food/donations
+2006-08-25,93,27,93,25,55688,107489,-51801,66,Vegetables,66,102432,Fire,Diarrhea,13644,Water,20868,7,Check food/donations
+2012-06-25,91,33,91,28,109500,88581,20919,58,Maize Flour,58,103820,Sickness,Diarrhea,28606,Gas,35784,8,Check food/donations
+2009-06-05,57,30,57,28,106382,54926,51456,27,Beans,27,51003,Power Outage,Fever,9209,Internet,30807,8,Check food/donations
+2015-04-16,91,100,91,21,14840,108487,-93647,0,None,0,0,None,Flu,3970,Water,42792,8,Check food/donations
+2002-07-03,98,25,98,19,88868,69745,19123,73,Vegetables,73,122859,None,Malaria,20874,Water,30194,10,Check food/donations
+2010-07-01,81,29,81,17,63129,49535,13594,52,Vegetables,52,85072,None,Flu,23390,Electricity,39990,3,Check food/donations
+2006-05-30,83,42,83,27,111410,33033,78377,41,Rice,41,65395,None,Diarrhea,13437,Internet,17531,4,Check food/donations
+2017-06-29,94,49,94,19,58578,27350,31228,45,Vegetables,45,84330,Sickness,Malaria,3134,Water,37342,6,Check food/donations
+2015-02-24,83,66,83,20,49173,30613,18560,17,Rice,17,29002,None,Flu,26564,Electricity,37285,10,Check food/donations
+2017-04-20,83,36,83,25,22199,107964,-85765,47,Rice,47,78866,None,None,0,Electricity,10445,7,Check food/donations
+2002-06-28,64,95,64,18,128065,74946,53119,0,None,0,0,None,None,0,Internet,17279,10,Stable
+2013-09-09,94,80,94,36,138297,56687,81610,14,Rice,14,24668,None,Malaria,18721,Gas,24953,7,Check food/donations
+2014-06-15,60,93,60,33,15054,26156,-11102,0,None,0,0,None,Flu,18071,Electricity,46187,6,Check food/donations
+2017-04-23,70,93,70,36,66497,54913,11584,0,None,0,0,None,Diarrhea,242,Internet,19177,5,Stable
+2019-09-10,44,63,44,8,129470,32341,97129,0,None,0,0,None,None,0,Water,43762,8,Stable
+2010-05-06,73,12,73,5,49763,33625,16138,61,Beans,61,114253,None,Fever,28917,Internet,18180,7,Check food/donations
+2019-02-11,27,53,27,32,7608,47461,-39853,0,None,0,0,None,Flu,7383,Water,49338,3,Check food/donations
+1999-07-20,91,89,91,5,4289,21055,-16766,2,Vegetables,2,3144,Water Shortage,Flu,26618,Internet,37329,7,Check food/donations
+2017-09-17,35,59,35,18,114889,114020,869,0,None,0,0,Fire,Diarrhea,18854,Electricity,28363,7,Stable
+2018-02-27,45,34,45,27,40880,25157,15723,11,Vegetables,11,20482,None,Diarrhea,1365,Water,48012,6,Check food/donations
+2003-07-26,83,21,83,9,72364,39020,33344,62,Beans,62,93000,None,None,0,Electricity,29649,4,Check food/donations
+2004-09-10,83,60,83,25,34232,32356,1876,23,Maize Flour,23,36662,Fire,Diarrhea,29095,Gas,33476,9,Check food/donations
+2019-06-15,63,38,63,17,28196,116293,-88097,25,Rice,25,39625,None,Diarrhea,12678,Internet,11608,6,Check food/donations
+2016-05-26,67,90,67,20,141363,119442,21921,0,None,0,0,None,Fever,5300,Water,21071,6,Stable
+2020-03-02,95,51,95,22,55705,111351,-55646,44,Beans,44,69652,None,None,0,Water,23185,7,Check food/donations
+2008-03-01,23,22,23,13,127270,50440,76830,1,Rice,1,1692,None,Flu,8802,Water,34481,8,Check food/donations
+2015-06-29,81,74,81,20,43426,46886,-3460,7,Beans,7,13678,None,Fever,29084,Electricity,27790,3,Check food/donations
+2009-07-12,65,15,65,8,80103,81034,-931,50,Vegetables,50,95650,None,Flu,20435,Water,24826,6,Check food/donations
+2016-06-23,67,97,67,5,119025,41807,77218,0,None,0,0,Power Outage,Flu,15580,Water,35461,8,Stable
+2014-10-25,55,71,55,12,32237,25050,7187,0,None,0,0,None,Malaria,9042,Internet,36070,7,Stable
+2008-09-15,54,61,54,34,1562,32847,-31285,0,None,0,0,Water Shortage,Flu,23161,Electricity,28415,9,Check food/donations
+2011-09-25,58,57,58,13,48802,71011,-22209,1,Maize Flour,1,1782,Power Outage,Fever,3635,Water,10384,3,Check food/donations
+2001-03-17,34,62,34,20,44431,76045,-31614,0,None,0,0,None,Flu,22893,Water,16076,4,Check food/donations
+1999-10-28,53,87,53,23,42782,43848,-1066,0,None,0,0,Sickness,Malaria,4258,Internet,41323,5,Check food/donations
+2006-10-27,99,36,99,20,33778,39364,-5586,63,Beans,63,95949,None,Fever,28103,Electricity,11030,7,Check food/donations
+2006-05-30,88,51,88,31,110408,50284,60124,37,Rice,37,60458,None,Flu,17440,Water,15342,9,Check food/donations
+2000-08-31,66,91,66,12,102310,59801,42509,0,None,0,0,None,Fever,18176,Water,18459,3,Stable
+2014-02-19,51,70,51,5,100319,89173,11146,0,None,0,0,None,Flu,6861,Gas,25752,10,Stable
+2017-05-12,37,15,37,6,137368,36894,100474,22,Beans,22,40304,None,Malaria,17431,Water,29490,5,Check food/donations
+2000-04-11,93,68,93,38,28942,61601,-32659,25,Beans,25,39575,None,Flu,13010,Electricity,46294,4,Check food/donations
+2017-04-17,56,94,56,23,93394,81122,12272,0,None,0,0,Water Shortage,None,0,Gas,27120,5,Stable
+2020-09-03,78,59,78,30,113411,99705,13706,19,Vegetables,19,35150,None,Diarrhea,5891,Gas,28548,3,Check food/donations
+2020-11-04,81,39,81,34,2822,25758,-22936,42,Rice,42,79674,None,Diarrhea,6564,Water,26593,5,Check food/donations
+2001-01-10,40,61,40,21,4762,107874,-103112,0,None,0,0,None,Fever,18848,Electricity,45808,10,Check food/donations
+2001-12-15,20,66,20,29,75875,87378,-11503,0,None,0,0,Power Outage,Malaria,20567,Water,32127,3,Check food/donations
+2017-10-11,39,23,39,21,74041,29261,44780,16,Maize Flour,16,24464,None,Diarrhea,14628,Gas,17320,3,Check food/donations
+2009-07-14,59,54,59,37,145785,50704,95081,5,Beans,5,8675,Sickness,Fever,9967,Internet,14682,3,Check food/donations
+2002-12-30,82,40,82,10,91299,36394,54905,42,Beans,42,72030,Power Outage,Diarrhea,17399,Internet,11685,5,Check food/donations
+2020-05-16,26,77,26,17,92033,86262,5771,0,None,0,0,None,None,0,Water,47221,4,Stable
+2014-06-08,87,43,87,21,112218,74303,37915,44,Vegetables,44,79596,Power Outage,Diarrhea,28120,Internet,49795,5,Check food/donations
+2015-10-04,80,94,80,16,82057,91306,-9249,0,None,0,0,None,None,0,Gas,34606,7,Check food/donations
+2018-04-04,55,84,55,10,65349,30269,35080,0,None,0,0,None,None,0,Water,40137,10,Stable
+2012-01-10,40,32,40,31,13159,72917,-59758,8,Rice,8,15288,None,Fever,24427,Water,17949,7,Check food/donations
+2014-04-27,31,44,31,10,80499,44637,35862,0,None,0,0,None,Malaria,6075,Internet,10737,3,Stable
+2009-05-05,54,15,54,5,7309,63533,-56224,39,Beans,39,73008,None,Flu,5318,Internet,38345,7,Check food/donations
+2014-06-30,44,49,44,32,73474,109819,-36345,0,None,0,0,None,None,0,Internet,20652,3,Check food/donations
+2019-02-06,28,24,28,23,3913,52256,-48343,4,Rice,4,7752,None,Fever,16436,Gas,19877,4,Check food/donations
+2000-11-18,58,48,58,20,14918,97218,-82300,10,Vegetables,10,18110,Sickness,Malaria,378,Gas,43456,5,Check food/donations
+2010-08-06,92,29,92,27,52590,34420,18170,63,Vegetables,63,103131,None,Flu,1438,Internet,47801,8,Check food/donations
+2003-05-20,28,42,28,31,50386,40597,9789,0,None,0,0,None,Diarrhea,3932,Internet,12644,8,Stable
+2003-06-01,82,95,82,31,17397,111964,-94567,0,None,0,0,None,Flu,11824,Electricity,24755,4,Check food/donations
+2020-04-27,20,52,20,28,30521,49056,-18535,0,None,0,0,None,Malaria,7532,Internet,22070,8,Check food/donations
+2009-08-06,86,26,86,21,124006,117281,6725,60,Maize Flour,60,109920,None,Fever,28304,Gas,24836,5,Check food/donations
+2001-06-02,59,43,59,34,87563,48836,38727,16,Rice,16,29584,None,Malaria,4517,Internet,32037,8,Check food/donations
+2001-02-28,35,62,35,37,29593,45152,-15559,0,None,0,0,None,Malaria,18607,Internet,22315,7,Check food/donations
+2019-10-13,67,93,67,12,35852,24882,10970,0,None,0,0,None,Diarrhea,27327,Internet,25603,7,Stable
+2017-04-27,20,73,20,12,99294,68010,31284,0,None,0,0,None,Flu,24668,Electricity,29999,3,Stable
+2019-12-21,51,52,51,39,41775,89564,-47789,0,None,0,0,None,None,0,Water,41333,6,Check food/donations
+2007-03-05,68,87,68,5,18077,64557,-46480,0,None,0,0,None,Flu,14709,Electricity,11485,10,Check food/donations
+2001-09-28,54,82,54,22,43792,112276,-68484,0,None,0,0,Sickness,None,0,Internet,10315,8,Check food/donations
+2000-12-30,78,96,78,13,141233,55743,85490,0,None,0,0,Fire,Flu,16296,Gas,20408,4,Stable
+2008-05-26,89,42,89,37,29819,103022,-73203,47,Vegetables,47,75576,None,Fever,25857,Gas,25374,10,Check food/donations
+2007-05-14,94,84,94,24,51022,108746,-57724,10,Rice,10,15010,None,None,0,Electricity,34565,5,Check food/donations
+2003-04-25,81,18,81,9,78765,49409,29356,63,Vegetables,63,99603,None,Fever,21819,Internet,37011,5,Check food/donations
+2007-11-28,65,85,65,27,46994,90241,-43247,0,None,0,0,Fire,Fever,10200,Electricity,22567,5,Check food/donations
+2012-05-03,48,87,48,27,85741,60938,24803,0,None,0,0,None,None,0,Gas,47974,10,Stable
+2006-02-15,65,15,65,5,126506,28112,98394,50,Beans,50,92550,None,None,0,Water,35542,7,Check food/donations
+2013-06-03,26,83,26,28,60303,101361,-41058,0,None,0,0,None,None,0,Water,19166,7,Check food/donations
+2012-04-11,24,32,24,5,131270,50766,80504,0,None,0,0,Power Outage,Malaria,21831,Electricity,34409,7,Stable
+2012-03-09,68,67,68,30,47602,115453,-67851,1,Vegetables,1,1862,None,Malaria,25347,Water,24059,5,Check food/donations
+2020-02-22,64,33,64,20,35884,45797,-9913,31,Maize Flour,31,60233,Sickness,Fever,11635,Water,37419,7,Check food/donations
+2012-11-30,65,89,65,7,99427,52691,46736,0,None,0,0,None,Flu,13214,Gas,12965,5,Stable
+2010-11-28,49,24,49,13,125912,60728,65184,25,Maize Flour,25,43300,None,Diarrhea,3526,Internet,49469,7,Check food/donations
+2008-10-16,60,37,60,15,73933,104547,-30614,23,Maize Flour,23,35006,Power Outage,None,0,Gas,49664,5,Check food/donations
+2015-09-02,32,58,32,35,66610,69645,-3035,0,None,0,0,None,Malaria,18968,Internet,33172,4,Check food/donations
+2003-02-28,35,11,35,9,129005,21264,107741,24,Beans,24,47304,None,Malaria,10373,Electricity,47999,5,Check food/donations
+2000-08-24,57,30,57,23,88446,40201,48245,27,Vegetables,27,41175,Power Outage,Fever,1830,Water,37041,9,Check food/donations
+2019-03-11,79,13,79,10,76778,48318,28460,66,Rice,66,118932,Power Outage,Fever,4183,Electricity,30436,10,Check food/donations
+2015-03-15,94,97,94,13,74052,68694,5358,0,None,0,0,Water Shortage,None,0,Internet,24841,6,Stable
+2000-01-21,28,30,28,10,28817,109437,-80620,0,None,0,0,None,None,0,Water,30958,9,Check food/donations
+2002-08-14,51,72,51,34,89447,22701,66746,0,None,0,0,None,Diarrhea,4355,Gas,49742,8,Stable
+2015-06-02,83,82,83,8,124725,111535,13190,1,Beans,1,1884,None,Fever,18867,Water,40164,5,Check food/donations
+2011-12-05,95,85,95,36,52917,25840,27077,10,Rice,10,19320,Power Outage,Malaria,7365,Internet,34412,8,Check food/donations
+2004-11-18,31,38,31,25,6037,34809,-28772,0,None,0,0,None,Flu,9146,Water,34578,7,Check food/donations
+2006-02-07,51,100,51,11,103694,101588,2106,0,None,0,0,Water Shortage,None,0,Gas,49832,4,Stable
+2017-12-26,25,46,25,19,49712,43884,5828,0,None,0,0,None,Flu,17742,Internet,40513,8,Stable
+2004-08-12,23,18,23,10,17547,100139,-82592,5,Vegetables,5,8930,None,Malaria,11220,Gas,34179,4,Check food/donations
+1999-04-23,95,25,95,13,92250,59772,32478,70,Beans,70,108080,Sickness,Flu,4115,Water,24203,4,Check food/donations
+2013-12-28,54,36,54,29,4195,79407,-75212,18,Beans,18,30204,Power Outage,Diarrhea,25606,Gas,43809,6,Check food/donations
+2010-02-05,79,99,79,31,8933,99670,-90737,0,None,0,0,None,Fever,10092,Internet,16090,6,Check food/donations
+2019-05-07,58,12,58,10,99779,86163,13616,46,Maize Flour,46,75164,None,Flu,18630,Water,34287,7,Check food/donations
+2011-02-23,81,68,81,25,123706,112157,11549,13,Rice,13,23218,Power Outage,Malaria,8393,Water,43777,10,Check food/donations
+2020-05-09,36,17,36,7,133407,88267,45140,19,Rice,19,32908,Sickness,Malaria,286,Gas,46430,3,Check food/donations
+2015-10-28,74,14,74,11,1698,45790,-44092,60,Maize Flour,60,98520,None,Malaria,24160,Gas,41469,8,Check food/donations
+2012-11-18,48,10,48,10,125731,106051,19680,38,Rice,38,59546,None,Fever,22064,Gas,39892,5,Check food/donations
+2016-12-19,34,78,34,26,19775,99686,-79911,0,None,0,0,None,Diarrhea,3178,Water,28930,6,Check food/donations
+2015-05-23,22,45,22,21,32557,107966,-75409,0,None,0,0,None,Fever,6087,Internet,30196,5,Check food/donations
+2012-02-06,49,90,49,19,101307,64951,36356,0,None,0,0,None,Fever,1355,Water,44054,4,Stable
+2018-06-18,61,99,61,17,45338,60240,-14902,0,None,0,0,None,Diarrhea,10219,Internet,48056,4,Check food/donations
+2002-03-13,93,69,93,13,66527,97486,-30959,24,Vegetables,24,47160,None,Malaria,23157,Electricity,24692,7,Check food/donations
+2009-05-15,74,74,74,23,21667,116692,-95025,0,None,0,0,None,Malaria,29367,Electricity,31383,10,Check food/donations
+2018-11-15,89,98,89,26,2396,94138,-91742,0,None,0,0,None,Flu,15701,Water,25234,8,Check food/donations
+2011-04-02,88,94,88,22,70957,45710,25247,0,None,0,0,None,Flu,15248,Internet,17115,7,Stable
+2007-03-04,78,24,78,23,69164,36559,32605,54,Vegetables,54,90666,Power Outage,Fever,22926,Electricity,44483,3,Check food/donations
+2008-11-06,88,66,88,7,3550,28791,-25241,22,Maize Flour,22,43626,None,Fever,25216,Gas,28383,7,Check food/donations
+2007-08-12,54,54,54,33,128493,102771,25722,0,None,0,0,None,None,0,Water,16884,7,Stable
+2013-05-13,40,59,40,35,127183,83382,43801,0,None,0,0,None,Malaria,7449,Internet,18107,8,Stable
+2013-07-25,90,14,90,7,148580,89465,59115,76,Vegetables,76,115292,None,None,0,Electricity,31927,7,Check food/donations
+2003-07-08,60,97,60,5,2390,115230,-112840,0,None,0,0,None,Fever,27078,Electricity,49223,4,Check food/donations
+2005-01-19,32,64,32,23,28664,60251,-31587,0,None,0,0,Sickness,Fever,593,Water,33847,6,Check food/donations
+1999-10-09,30,89,30,18,46994,62689,-15695,0,None,0,0,None,Flu,27805,Water,26099,4,Check food/donations
+2013-05-13,32,70,32,31,57441,85896,-28455,0,None,0,0,Power Outage,Flu,21892,Internet,34884,6,Check food/donations
+1999-11-13,21,75,21,30,128652,46280,82372,0,None,0,0,None,Diarrhea,22171,Electricity,36424,5,Stable
+2009-12-11,60,52,60,24,22427,53249,-30822,8,Vegetables,8,15184,None,Diarrhea,15127,Electricity,40247,7,Check food/donations
+2013-06-12,31,77,31,34,78687,94389,-15702,0,None,0,0,Sickness,Diarrhea,117,Internet,38156,3,Check food/donations
+2002-07-10,59,90,59,18,39862,103348,-63486,0,None,0,0,None,Flu,17579,Electricity,47745,3,Check food/donations
+2001-03-16,68,70,68,16,3051,49358,-46307,0,None,0,0,Sickness,None,0,Gas,35055,8,Check food/donations
+2014-06-20,84,53,84,22,4797,90560,-85763,31,Beans,31,46655,Water Shortage,Malaria,18312,Gas,39290,8,Check food/donations
+2015-01-14,29,12,29,8,106408,105351,1057,17,Rice,17,33949,None,Malaria,18410,Gas,30327,7,Check food/donations
+2009-09-07,80,95,80,26,28045,48179,-20134,0,None,0,0,None,Flu,39,Water,26975,3,Check food/donations
+2019-02-13,100,69,100,29,7427,95609,-88182,31,Vegetables,31,58869,None,Diarrhea,672,Gas,17741,6,Check food/donations
+2000-05-27,44,63,44,8,54896,40991,13905,0,None,0,0,None,Diarrhea,2630,Gas,17316,5,Stable
+2019-11-18,21,50,21,8,64291,30131,34160,0,None,0,0,None,None,0,Internet,31148,9,Stable
+2003-11-05,79,59,79,10,5215,100739,-95524,20,Maize Flour,20,35560,None,Malaria,12061,Internet,20337,8,Check food/donations
+2020-04-30,79,37,79,28,141229,93599,47630,42,Maize Flour,42,78456,Sickness,Fever,11525,Water,40402,9,Check food/donations
+2015-02-04,49,41,49,20,126794,23460,103334,8,Maize Flour,8,13504,None,Flu,14563,Electricity,41582,5,Check food/donations
+1999-04-10,22,86,22,25,54813,65929,-11116,0,None,0,0,None,None,0,Water,37194,9,Check food/donations
+2010-08-21,61,21,61,21,82072,63481,18591,40,Beans,40,69720,None,Diarrhea,23327,Electricity,32137,5,Check food/donations
+2011-03-23,58,10,58,9,119514,52334,67180,48,Vegetables,48,93408,None,Fever,10226,Electricity,44914,6,Check food/donations
+2013-11-11,52,69,52,20,130014,60074,69940,0,None,0,0,None,None,0,Internet,27827,9,Stable
+2013-01-10,53,56,53,40,30730,35999,-5269,0,None,0,0,Power Outage,Diarrhea,3449,Electricity,33268,5,Check food/donations
+2006-07-17,29,97,29,18,2035,119789,-117754,0,None,0,0,None,None,0,Water,28052,9,Check food/donations
+2006-11-27,62,60,62,30,53690,52860,830,2,Beans,2,3660,Power Outage,Fever,12611,Water,47475,8,Check food/donations
+2001-05-06,82,87,82,9,94069,49842,44227,0,None,0,0,None,None,0,Gas,44994,9,Stable
+2000-04-29,44,93,44,33,111370,22105,89265,0,None,0,0,None,Flu,1929,Electricity,12574,6,Stable
+2004-03-27,45,66,45,30,95825,49023,46802,0,None,0,0,Water Shortage,None,0,Electricity,25011,8,Stable
+2007-01-29,68,92,68,30,147583,45890,101693,0,None,0,0,Power Outage,Malaria,4684,Water,19179,4,Stable
+1999-10-31,59,48,59,6,100198,60064,40134,11,Rice,11,18139,None,None,0,Water,40832,6,Check food/donations
+2003-09-13,46,62,46,6,67193,37606,29587,0,None,0,0,None,Fever,20204,Gas,31752,5,Stable
+2013-12-08,46,100,46,38,73009,75082,-2073,0,None,0,0,Sickness,Malaria,3319,Water,15929,7,Check food/donations
+2011-07-06,80,95,80,29,107257,71796,35461,0,None,0,0,None,Flu,10749,Electricity,35858,6,Stable
+2017-10-14,85,59,85,19,34332,89805,-55473,26,Rice,26,40326,None,Diarrhea,26890,Water,32510,5,Check food/donations
+2013-08-31,60,87,60,17,59497,28298,31199,0,None,0,0,None,None,0,Internet,15498,8,Stable
+2012-03-23,70,95,70,18,37832,53702,-15870,0,None,0,0,None,Diarrhea,24162,Electricity,15113,3,Check food/donations
+2019-11-28,66,91,66,32,117430,61014,56416,0,None,0,0,None,None,0,Internet,30078,8,Stable
+2019-02-15,74,55,74,11,18829,26497,-7668,19,Maize Flour,19,34352,Power Outage,Flu,26689,Electricity,37350,10,Check food/donations
+2002-01-10,88,65,88,36,21513,119945,-98432,23,Beans,23,37973,None,None,0,Gas,21950,4,Check food/donations
+2006-10-09,23,80,23,18,139893,56633,83260,0,None,0,0,None,None,0,Electricity,36689,9,Stable
+2014-10-05,88,25,88,14,24763,63487,-38724,63,Rice,63,123669,None,Flu,8122,Internet,44033,8,Check food/donations
+2002-01-26,79,79,79,18,58157,63895,-5738,0,None,0,0,None,Malaria,12587,Water,32201,5,Check food/donations
+2005-09-25,99,28,99,25,63313,44533,18780,71,Rice,71,117150,Sickness,None,0,Internet,43283,9,Check food/donations
+2011-04-14,100,79,100,26,83435,43730,39705,21,Rice,21,37905,Sickness,Flu,15798,Internet,25099,8,Check food/donations
+2006-06-11,92,73,92,35,102638,82141,20497,19,Vegetables,19,31312,None,Diarrhea,16930,Internet,17319,9,Check food/donations
+2019-01-27,53,97,53,32,55011,52551,2460,0,None,0,0,Sickness,Diarrhea,25426,Water,14135,9,Stable
+2003-03-31,82,20,82,19,65050,104971,-39921,62,Vegetables,62,97402,None,Malaria,7337,Electricity,28209,5,Check food/donations
+2016-07-28,21,30,21,17,35000,97268,-62268,0,None,0,0,None,Diarrhea,11159,Gas,36926,5,Check food/donations
+2013-11-17,46,18,46,14,64479,99052,-34573,28,Rice,28,52052,None,None,0,Gas,45757,6,Check food/donations
+2020-10-21,74,66,74,31,3076,91485,-88409,8,Maize Flour,8,12736,Fire,Malaria,22891,Water,30876,4,Check food/donations
+2000-12-25,84,42,84,38,8845,27011,-18166,42,Vegetables,42,63378,None,None,0,Electricity,39746,8,Check food/donations
+1999-09-25,45,38,45,36,143559,29055,114504,7,Maize Flour,7,10591,None,None,0,Gas,29226,5,Check food/donations
+2010-07-21,83,44,83,31,61734,105385,-43651,39,Maize Flour,39,75465,None,Fever,10888,Water,36470,7,Check food/donations
+2015-09-25,45,35,45,15,13997,40988,-26991,10,Vegetables,10,16570,None,Flu,20051,Electricity,10429,4,Check food/donations
+2007-02-06,38,25,38,13,81269,45755,35514,13,Maize Flour,13,21697,None,Flu,23950,Water,45074,5,Check food/donations
+2007-10-07,91,54,91,32,62003,52960,9043,37,Rice,37,73556,Power Outage,None,0,Water,36056,10,Check food/donations
+2008-09-12,82,13,82,13,70050,52918,17132,69,Vegetables,69,119922,None,Diarrhea,342,Water,30508,4,Check food/donations
+1999-07-30,36,76,36,37,63056,87950,-24894,0,None,0,0,Fire,None,0,Electricity,41750,4,Check food/donations
+2017-06-10,45,22,45,15,28533,39134,-10601,23,Beans,23,44022,None,Flu,25799,Electricity,10395,5,Check food/donations
+2006-08-04,83,21,83,8,22607,90459,-67852,62,Maize Flour,62,114018,None,Malaria,10566,Internet,11916,4,Check food/donations
+2019-07-11,27,100,27,11,140673,115055,25618,0,None,0,0,Power Outage,Malaria,18434,Electricity,17481,6,Stable
+2007-07-27,85,20,85,16,47161,46575,586,65,Maize Flour,65,98475,None,Fever,25868,Electricity,46794,10,Check food/donations
+2000-08-13,82,19,82,15,4678,74420,-69742,63,Rice,63,119637,None,Flu,16915,Gas,25220,3,Check food/donations
+2002-06-19,47,12,47,9,47039,47055,-16,35,Maize Flour,35,67060,None,None,0,Gas,47613,3,Check food/donations
+2003-06-30,47,41,47,39,142934,58861,84073,6,Beans,6,10500,None,Flu,28292,Water,27784,8,Check food/donations
+2005-05-05,73,40,73,27,128549,21045,107504,33,Vegetables,33,59070,None,None,0,Internet,17831,6,Check food/donations
+2013-04-11,22,40,22,18,38905,118002,-79097,0,None,0,0,None,Diarrhea,19323,Gas,15541,3,Check food/donations
+2007-11-03,86,28,86,20,99958,72987,26971,58,Maize Flour,58,96048,None,None,0,Electricity,16205,3,Check food/donations
+2001-02-08,56,62,56,10,85463,117633,-32170,0,None,0,0,Water Shortage,None,0,Electricity,35643,7,Check food/donations
+2006-01-25,59,16,59,11,1269,76525,-75256,43,Beans,43,74605,None,Malaria,13569,Electricity,48454,10,Check food/donations
+2002-02-23,20,13,20,13,97466,47074,50392,7,Vegetables,7,13405,None,Diarrhea,18124,Water,22392,10,Check food/donations
+2011-03-05,45,85,45,37,81063,64169,16894,0,None,0,0,None,Flu,25161,Gas,19471,9,Stable
+1999-06-19,90,75,90,26,19372,102905,-83533,15,Maize Flour,15,27360,Power Outage,Fever,25198,Electricity,33902,5,Check food/donations
+2009-10-27,70,18,70,10,15644,41611,-25967,52,Maize Flour,52,87464,None,Malaria,22499,Water,20218,7,Check food/donations
+1999-03-06,95,72,95,15,127564,114517,13047,23,Beans,23,41216,Water Shortage,Diarrhea,17093,Electricity,26873,9,Check food/donations
+2010-04-04,64,34,64,31,144594,69921,74673,30,Maize Flour,30,57210,None,Malaria,1983,Electricity,47748,7,Check food/donations
+2020-11-10,73,98,73,29,56189,102466,-46277,0,None,0,0,None,Diarrhea,21831,Water,17972,6,Check food/donations
+2003-02-02,100,72,100,17,144470,110429,34041,28,Maize Flour,28,54292,None,Malaria,8792,Electricity,14360,5,Check food/donations
+2012-03-04,77,18,77,17,28484,116803,-88319,59,Rice,59,111156,None,None,0,Electricity,15459,10,Check food/donations
+2016-12-10,62,87,62,12,131073,44987,86086,0,None,0,0,Water Shortage,Fever,14332,Water,24764,5,Stable
+2003-05-19,90,68,90,20,119847,117185,2662,22,Vegetables,22,36718,Sickness,Malaria,7746,Internet,14580,7,Check food/donations
+2017-07-27,90,74,90,7,53336,119519,-66183,16,Vegetables,16,26080,Power Outage,Flu,22218,Electricity,38912,10,Check food/donations
+2016-02-23,58,39,58,37,59668,115873,-56205,19,Maize Flour,19,36936,None,Fever,20840,Internet,15283,3,Check food/donations
+2003-12-23,75,17,75,17,147817,95563,52254,58,Beans,58,94946,Water Shortage,Diarrhea,5515,Electricity,43142,7,Check food/donations
+2010-12-19,37,20,37,20,26186,82540,-56354,17,Vegetables,17,27591,None,Diarrhea,15972,Internet,11139,3,Check food/donations
+2010-07-31,26,82,26,26,332,24979,-24647,0,None,0,0,None,Fever,29208,Gas,17694,6,Check food/donations
+2007-11-21,76,89,76,13,85596,54184,31412,0,None,0,0,None,Flu,28503,Internet,37576,7,Stable
+2000-07-07,21,17,21,16,88783,32423,56360,4,Maize Flour,4,6720,Sickness,None,0,Internet,44916,7,Check food/donations
+2012-07-07,86,53,86,18,106417,39734,66683,33,Beans,33,55704,None,Diarrhea,6508,Internet,25626,3,Check food/donations
+2013-08-13,73,42,73,15,130399,81947,48452,31,Rice,31,51770,None,Diarrhea,26794,Gas,25548,10,Check food/donations
+2007-01-18,68,23,68,10,111553,38021,73532,45,Maize Flour,45,69075,None,Diarrhea,12882,Water,31199,6,Check food/donations
+2003-05-17,90,99,90,11,10784,67337,-56553,0,None,0,0,Power Outage,Flu,23278,Electricity,32728,7,Check food/donations
+2006-05-02,38,73,38,39,117563,110285,7278,0,None,0,0,None,Diarrhea,8012,Internet,43862,3,Stable
+2016-11-01,90,35,90,19,72840,107458,-34618,55,Beans,55,89650,Fire,Diarrhea,10981,Electricity,40846,3,Check food/donations
+2017-04-08,35,23,35,18,66186,34383,31803,12,Beans,12,22512,None,Flu,10276,Internet,26631,10,Check food/donations
+2006-07-21,93,100,93,23,45220,34189,11031,0,None,0,0,Sickness,Malaria,6432,Electricity,23097,3,Stable
+2017-11-24,23,77,23,20,149497,119004,30493,0,None,0,0,None,Diarrhea,16022,Internet,45157,5,Stable
+2003-11-28,52,47,52,31,65637,25111,40526,5,Vegetables,5,7735,Power Outage,Malaria,11095,Electricity,34460,6,Check food/donations
+2010-02-12,43,57,43,29,115329,70574,44755,0,None,0,0,None,Malaria,26663,Gas,20149,7,Stable
+2008-02-03,63,90,63,39,35438,34933,505,0,None,0,0,None,None,0,Internet,47708,4,Stable
+2004-05-20,31,52,31,6,135001,77642,57359,0,None,0,0,None,Malaria,9149,Internet,36611,5,Stable
+2014-06-23,79,96,79,39,22182,103269,-81087,0,None,0,0,None,Malaria,29689,Electricity,33998,6,Check food/donations
+2008-02-08,23,100,23,8,48342,53887,-5545,0,None,0,0,None,None,0,Electricity,20556,6,Check food/donations
+2018-11-04,68,73,68,15,81474,35837,45637,0,None,0,0,None,Malaria,15,Water,14657,5,Stable
+2013-08-30,42,47,42,16,14558,58680,-44122,0,None,0,0,None,Malaria,7724,Internet,18598,7,Check food/donations
+2000-05-07,54,77,54,27,73366,55322,18044,0,None,0,0,None,Diarrhea,6209,Water,40385,5,Stable
+2004-06-26,58,69,58,8,128256,80874,47382,0,None,0,0,None,Malaria,29115,Internet,38552,7,Stable
+2019-09-23,25,93,25,36,122743,73362,49381,0,None,0,0,None,Malaria,12231,Water,39578,9,Stable
+2014-07-27,66,60,66,17,87901,91771,-3870,6,Beans,6,11436,None,Malaria,47,Water,18774,7,Check food/donations
+2008-01-25,58,17,58,14,135979,69529,66450,41,Beans,41,61705,None,Fever,22163,Water,18473,5,Check food/donations
+2015-09-23,66,45,66,16,146512,20930,125582,21,Vegetables,21,41076,Water Shortage,Diarrhea,10583,Gas,17824,10,Check food/donations
+2007-09-07,26,39,26,23,52729,47161,5568,0,None,0,0,Water Shortage,Fever,13838,Electricity,42424,8,Stable
+2008-01-19,24,100,24,23,9980,30845,-20865,0,None,0,0,None,Flu,15418,Electricity,18582,10,Check food/donations
+2015-05-19,54,14,54,11,133589,82800,50789,40,Rice,40,75080,None,Diarrhea,24766,Electricity,10022,4,Check food/donations
+2012-09-25,62,16,62,8,88887,47556,41331,46,Vegetables,46,91954,Power Outage,None,0,Electricity,42572,10,Check food/donations
+2018-12-21,52,48,52,19,137104,34789,102315,4,Maize Flour,4,6692,None,Diarrhea,16407,Gas,49398,7,Check food/donations
+2009-05-04,80,41,80,34,79628,58434,21194,39,Vegetables,39,65481,Water Shortage,None,0,Internet,46733,6,Check food/donations
+2019-08-28,82,75,82,16,59803,76224,-16421,7,Rice,7,11627,None,Diarrhea,14584,Internet,45763,10,Check food/donations
+2001-03-05,63,33,63,29,107671,82609,25062,30,Rice,30,56910,Water Shortage,Diarrhea,10806,Electricity,27481,7,Check food/donations
+2020-01-08,26,97,26,17,54950,93576,-38626,0,None,0,0,Water Shortage,Diarrhea,14876,Gas,40828,4,Check food/donations
+2004-10-24,29,44,29,28,62486,29978,32508,0,None,0,0,None,Fever,5006,Electricity,33585,4,Stable
+1999-11-17,24,35,24,24,147487,66605,80882,0,None,0,0,None,Fever,11861,Electricity,47026,9,Stable
+2012-01-08,35,52,35,38,105539,29150,76389,0,None,0,0,Fire,Fever,18849,Water,24653,4,Stable
+2019-04-02,59,44,59,24,42365,23389,18976,15,Vegetables,15,24255,None,Fever,15827,Electricity,12237,4,Check food/donations
+2018-06-26,73,56,73,26,135954,102804,33150,17,Vegetables,17,32453,None,Flu,21204,Internet,33376,6,Check food/donations
+2002-10-29,70,97,70,24,89717,53560,36157,0,None,0,0,None,Flu,2937,Electricity,23053,6,Stable
+2001-09-26,41,86,41,26,64089,118950,-54861,0,None,0,0,None,Diarrhea,10711,Water,26330,6,Check food/donations
+2012-12-21,60,52,60,34,15857,55202,-39345,8,Rice,8,13824,None,None,0,Gas,11566,5,Check food/donations
+2005-02-01,48,57,48,8,134043,87745,46298,0,None,0,0,Sickness,Flu,15124,Gas,32454,3,Stable
+2017-11-10,31,87,31,7,93279,45449,47830,0,None,0,0,None,None,0,Internet,29012,4,Stable
+2008-12-22,26,72,26,38,101621,93137,8484,0,None,0,0,Fire,Diarrhea,15259,Water,23985,3,Stable
+2006-03-02,29,98,29,15,116880,69343,47537,0,None,0,0,None,Flu,24221,Electricity,24065,7,Stable
+2006-11-19,76,20,76,19,96691,76617,20074,56,Maize Flour,56,102480,Sickness,Diarrhea,27800,Electricity,30739,4,Check food/donations
+2015-11-30,76,31,76,27,62844,31088,31756,45,Maize Flour,45,78075,None,Fever,12763,Water,24062,8,Check food/donations
+2002-02-28,100,82,100,15,142416,71606,70810,18,Maize Flour,18,27738,None,Malaria,17496,Electricity,31135,6,Check food/donations
+2011-12-02,82,69,82,7,34570,96811,-62241,13,Rice,13,25337,Water Shortage,None,0,Electricity,27068,8,Check food/donations
+2011-03-10,69,53,69,15,124957,41605,83352,16,Vegetables,16,25280,None,Malaria,1352,Electricity,35698,3,Check food/donations
+2001-09-17,54,24,54,15,57543,84213,-26670,30,Maize Flour,30,48360,None,Flu,5304,Electricity,14491,6,Check food/donations
+2000-06-22,67,46,67,25,114284,108525,5759,21,Beans,21,40572,None,Malaria,20770,Gas,27705,10,Check food/donations
+2002-12-10,76,14,76,9,142037,35623,106414,62,Beans,62,96286,None,None,0,Internet,43184,10,Check food/donations
+2010-02-27,91,61,91,15,113958,113424,534,30,Vegetables,30,57630,None,Malaria,9927,Electricity,16241,10,Check food/donations
+2009-07-22,56,100,56,9,98769,92753,6016,0,None,0,0,None,Fever,3402,Water,34846,8,Stable
+2014-04-28,54,99,54,26,122067,95587,26480,0,None,0,0,None,Malaria,9562,Gas,14717,6,Stable
+2009-12-03,97,34,97,14,68185,48346,19839,63,Maize Flour,63,118566,None,Fever,5086,Internet,41513,3,Check food/donations
+2019-03-03,39,17,39,10,29782,115122,-85340,22,Maize Flour,22,34430,None,Flu,8925,Electricity,22848,10,Check food/donations
+2012-04-03,49,28,49,12,113374,73233,40141,21,Vegetables,21,34734,None,Flu,13070,Water,43847,6,Check food/donations
+2020-09-17,31,24,31,6,16870,46667,-29797,7,Vegetables,7,13538,None,Malaria,7827,Internet,10166,5,Check food/donations
+2020-09-19,21,13,21,10,34926,20519,14407,8,Maize Flour,8,12816,Power Outage,Flu,573,Internet,43838,7,Check food/donations
+2011-01-27,85,20,85,5,73906,23404,50502,65,Rice,65,114920,None,None,0,Water,13537,9,Check food/donations
+2009-08-12,51,65,51,23,107352,20847,86505,0,None,0,0,Power Outage,Diarrhea,1658,Gas,26044,4,Stable
+2014-10-28,67,19,67,8,125682,112442,13240,48,Maize Flour,48,80736,None,Fever,5556,Electricity,42108,9,Check food/donations
+2006-04-15,73,67,73,26,91499,21979,69520,6,Vegetables,6,10950,Sickness,Flu,23973,Electricity,43362,10,Check food/donations
+2001-09-16,85,52,85,17,31707,58240,-26533,33,Vegetables,33,55440,None,Malaria,13973,Gas,49223,8,Check food/donations
+2002-07-01,89,76,89,36,7182,80347,-73165,13,Beans,13,20605,Fire,None,0,Internet,46913,8,Check food/donations
+2006-11-07,31,75,31,8,15846,41057,-25211,0,None,0,0,None,Diarrhea,24119,Electricity,14863,8,Check food/donations
+2006-11-16,82,88,82,31,12824,86659,-73835,0,None,0,0,None,Flu,7121,Gas,21060,6,Check food/donations
+2012-12-14,53,25,53,7,31735,45441,-13706,28,Maize Flour,28,55692,None,Flu,21950,Internet,48665,5,Check food/donations
+2009-09-12,90,29,90,17,43520,57319,-13799,61,Rice,61,116449,None,Diarrhea,18411,Water,28635,7,Check food/donations
+2013-08-25,81,64,81,9,19141,33095,-13954,17,Maize Flour,17,28883,None,Fever,3468,Electricity,21054,4,Check food/donations
+2000-12-19,33,58,33,39,41382,95547,-54165,0,None,0,0,None,None,0,Gas,36003,9,Check food/donations
+2009-08-08,61,24,61,11,14972,66286,-51314,37,Maize Flour,37,73889,Sickness,Fever,9067,Internet,46382,4,Check food/donations
+2008-09-23,54,54,54,32,115896,37392,78504,0,None,0,0,None,None,0,Electricity,21679,7,Stable
+1999-10-16,56,87,56,38,64979,35465,29514,0,None,0,0,None,Malaria,970,Water,28275,4,Stable
+2009-05-20,80,56,80,26,81598,108718,-27120,24,Vegetables,24,41184,None,Flu,11496,Gas,40980,4,Check food/donations
+2012-03-13,51,55,51,29,118544,29924,88620,0,None,0,0,None,Flu,25761,Water,46443,10,Stable
+2018-07-17,90,96,90,38,26316,96615,-70299,0,None,0,0,Sickness,Flu,10034,Gas,49839,6,Check food/donations
+2020-05-03,75,18,75,11,138460,65457,73003,57,Beans,57,92511,None,Flu,19347,Electricity,36175,5,Check food/donations
+2002-05-20,33,80,33,23,13159,99379,-86220,0,None,0,0,Power Outage,Flu,13593,Electricity,42591,10,Check food/donations
+2004-12-28,45,47,45,22,27666,20321,7345,0,None,0,0,Power Outage,Flu,10216,Electricity,48721,6,Stable
+2015-04-13,54,43,54,22,145703,23878,121825,11,Vegetables,11,20680,None,None,0,Gas,16942,6,Check food/donations
+2016-07-30,77,56,77,32,93663,25255,68408,21,Rice,21,34167,None,Malaria,13770,Internet,14693,7,Check food/donations
+2005-11-15,25,99,25,11,46512,60595,-14083,0,None,0,0,None,Diarrhea,6789,Water,41526,3,Check food/donations
+1999-11-06,62,12,62,7,147058,101822,45236,50,Vegetables,50,77100,None,Malaria,28097,Gas,43617,3,Check food/donations
+2012-03-27,35,84,35,29,74207,105283,-31076,0,None,0,0,Power Outage,Diarrhea,23229,Electricity,47963,9,Check food/donations
+2018-08-10,89,73,89,30,24494,98702,-74208,16,Rice,16,24816,None,Fever,28990,Water,35720,7,Check food/donations
+2012-03-21,41,32,41,10,119496,42159,77337,9,Vegetables,9,14211,Sickness,Malaria,15860,Electricity,15601,5,Check food/donations
+2002-06-26,68,60,68,18,56154,72257,-16103,8,Vegetables,8,12880,None,Malaria,17197,Electricity,21217,3,Check food/donations
+2015-06-03,96,82,96,12,13613,51203,-37590,14,Beans,14,21588,Sickness,Fever,10995,Internet,43911,5,Check food/donations
+2010-09-21,44,41,44,30,40669,38799,1870,3,Maize Flour,3,4512,Sickness,Malaria,28474,Gas,48248,3,Check food/donations
+2017-04-06,73,20,73,14,109942,51173,58769,53,Vegetables,53,82097,None,Malaria,16670,Gas,14566,7,Check food/donations
+2007-04-03,76,15,76,13,95388,78218,17170,61,Rice,61,91683,None,Diarrhea,158,Electricity,23783,9,Check food/donations
+2010-07-14,81,87,81,27,49868,34168,15700,0,None,0,0,None,Flu,24848,Electricity,33918,9,Stable
+2012-09-23,68,26,68,6,57174,23619,33555,42,Rice,42,73878,None,Fever,25603,Internet,27257,8,Check food/donations
+2016-09-11,49,82,49,26,117980,28207,89773,0,None,0,0,None,Fever,11852,Water,20327,6,Stable
+2006-03-19,39,59,39,11,45407,78892,-33485,0,None,0,0,Water Shortage,Fever,27272,Water,43791,4,Check food/donations
+2012-08-28,47,97,47,35,96929,114294,-17365,0,None,0,0,None,None,0,Electricity,35042,3,Check food/donations
+2007-07-12,63,43,63,16,22645,68615,-45970,20,Maize Flour,20,32540,None,Diarrhea,589,Electricity,19505,5,Check food/donations
+2000-12-07,50,33,50,6,114138,90105,24033,17,Vegetables,17,31195,None,Malaria,7908,Water,31640,7,Check food/donations
+2002-04-27,56,86,56,28,69476,31656,37820,0,None,0,0,None,Fever,26639,Internet,10640,4,Stable
+2007-12-03,45,85,45,26,62819,65056,-2237,0,None,0,0,None,Malaria,7429,Water,20992,7,Check food/donations
+2011-06-05,42,39,42,29,12787,80357,-67570,3,Maize Flour,3,5580,None,Malaria,9685,Internet,17079,8,Check food/donations
+2019-05-29,75,14,75,11,122704,84482,38222,61,Vegetables,61,110532,Water Shortage,Diarrhea,27309,Water,10514,4,Check food/donations
+2014-09-20,58,53,58,35,40826,29917,10909,5,Rice,5,8170,None,Diarrhea,22550,Internet,39411,7,Check food/donations
+2001-02-22,71,34,71,6,48097,109860,-61763,37,Maize Flour,37,58386,Water Shortage,Diarrhea,1986,Electricity,25649,3,Check food/donations
+2013-05-05,92,15,92,8,14592,28644,-14052,77,Rice,77,141064,Sickness,None,0,Water,15907,4,Check food/donations
+2019-03-07,94,56,94,14,42057,49615,-7558,38,Maize Flour,38,70908,Water Shortage,None,0,Electricity,13434,10,Check food/donations
+2000-04-29,47,75,47,24,42013,75379,-33366,0,None,0,0,Sickness,Malaria,27501,Gas,35700,4,Check food/donations
+2020-01-21,65,70,65,31,95970,44411,51559,0,None,0,0,None,Fever,3729,Water,33293,10,Stable
+2020-02-06,38,49,38,7,18355,119541,-101186,0,None,0,0,None,None,0,Internet,47510,10,Check food/donations
+2000-06-08,88,59,88,19,84795,74824,9971,29,Vegetables,29,45965,None,None,0,Water,27445,8,Check food/donations
+1999-10-28,44,28,44,28,39693,107876,-68183,16,Maize Flour,16,25280,None,None,0,Internet,29885,9,Check food/donations
+2003-02-26,96,88,96,29,39986,48265,-8279,8,Beans,8,14248,Fire,Diarrhea,15129,Internet,19610,4,Check food/donations
+2017-08-30,27,95,27,36,55001,91281,-36280,0,None,0,0,None,Fever,24627,Electricity,33632,5,Check food/donations
+2011-10-16,27,13,27,7,37091,80359,-43268,14,Maize Flour,14,23534,None,Fever,17734,Gas,31160,5,Check food/donations
+2003-05-28,91,63,91,12,135507,56061,79446,28,Vegetables,28,54432,None,Flu,3958,Internet,18329,8,Check food/donations
+2020-05-14,89,55,89,26,82377,62967,19410,34,Rice,34,67320,None,None,0,Electricity,22095,10,Check food/donations
+2014-11-07,20,46,20,25,101940,42379,59561,0,None,0,0,None,Malaria,17602,Internet,23971,8,Stable
+2015-01-20,98,33,98,13,46916,75193,-28277,65,Rice,65,124800,None,Flu,23841,Internet,29911,10,Check food/donations
+2002-09-02,30,63,30,29,110248,44524,65724,0,None,0,0,None,None,0,Electricity,40821,6,Stable
+2010-09-09,65,14,65,13,62998,26584,36414,51,Vegetables,51,100725,Power Outage,Diarrhea,29585,Internet,47425,4,Check food/donations
+2017-03-28,38,95,38,6,93212,31698,61514,0,None,0,0,None,Fever,19799,Electricity,43961,6,Stable
+2020-06-19,52,49,52,38,88751,58794,29957,3,Beans,3,5946,Power Outage,None,0,Internet,17031,4,Check food/donations
+2019-11-16,72,65,72,35,63936,34874,29062,7,Rice,7,13370,None,Flu,11089,Electricity,15503,7,Check food/donations
+2016-05-03,61,53,61,5,59635,59490,145,8,Maize Flour,8,13872,None,None,0,Gas,22522,5,Check food/donations
+2010-03-17,89,82,89,34,148884,104012,44872,7,Beans,7,13657,Power Outage,Flu,8489,Internet,10663,7,Check food/donations
+1999-03-09,25,91,25,32,123893,23645,100248,0,None,0,0,None,Fever,3778,Water,24141,7,Stable
+2008-01-02,73,64,73,26,110625,95187,15438,9,Maize Flour,9,14373,None,Fever,5731,Gas,14308,10,Check food/donations
+2009-11-09,29,46,29,37,87850,81498,6352,0,None,0,0,None,Malaria,2979,Water,22656,10,Stable
+2014-03-23,64,26,64,18,50472,86670,-36198,38,Vegetables,38,60040,None,Malaria,5572,Water,32800,7,Check food/donations
+2010-08-19,86,35,86,18,131888,70420,61468,51,Maize Flour,51,95625,Sickness,Fever,27427,Gas,14452,5,Check food/donations
+1999-08-07,90,54,90,37,18717,22961,-4244,36,Beans,36,71856,None,Diarrhea,8053,Gas,37591,7,Check food/donations
+2012-05-19,34,74,34,8,146590,62519,84071,0,None,0,0,None,Fever,23023,Gas,16959,6,Stable
+2000-08-09,65,89,65,27,74106,46516,27590,0,None,0,0,Fire,Malaria,3294,Gas,26785,3,Stable
+2007-08-08,86,57,86,17,140135,53465,86670,29,Beans,29,53766,None,Diarrhea,6499,Internet,10621,4,Check food/donations
+2016-08-13,88,11,88,8,13519,30745,-17226,77,Rice,77,131824,None,None,0,Electricity,30067,10,Check food/donations
+2011-05-24,77,70,77,36,94556,66440,28116,7,Maize Flour,7,11872,Power Outage,Flu,27518,Electricity,22843,3,Check food/donations
+2020-11-19,74,79,74,36,103548,53937,49611,0,None,0,0,None,Fever,950,Gas,30907,3,Stable
+2014-03-15,52,24,52,15,138067,56826,81241,28,Rice,28,55916,Fire,Diarrhea,20315,Internet,28541,5,Check food/donations
+2005-06-02,54,70,54,17,82753,77799,4954,0,None,0,0,Power Outage,Malaria,15795,Electricity,29486,8,Stable
+2007-12-15,44,50,44,35,4276,33890,-29614,0,None,0,0,Sickness,Malaria,18756,Water,38983,7,Check food/donations
+2000-01-08,23,47,23,26,104329,26663,77666,0,None,0,0,None,Fever,16773,Water,22496,9,Stable
+2018-12-13,21,54,21,35,64139,98788,-34649,0,None,0,0,None,Fever,20881,Water,19766,4,Check food/donations
+2015-06-24,26,93,26,6,10849,88501,-77652,0,None,0,0,None,None,0,Internet,11094,5,Check food/donations
+2016-01-28,95,97,95,37,90337,68053,22284,0,None,0,0,None,Fever,3298,Gas,33880,5,Stable
+2011-11-29,96,31,96,6,115147,113408,1739,65,Maize Flour,65,112190,Power Outage,None,0,Water,22944,8,Check food/donations
+2000-10-21,60,50,60,10,39601,46226,-6625,10,Vegetables,10,18970,Power Outage,Diarrhea,29152,Electricity,27721,5,Check food/donations
+2007-05-11,53,94,53,22,93193,90163,3030,0,None,0,0,None,Malaria,29590,Electricity,13058,5,Stable
+2008-03-25,79,81,79,17,41933,44139,-2206,0,None,0,0,None,Diarrhea,17850,Internet,23886,8,Check food/donations
+2015-05-26,88,39,88,25,33624,63148,-29524,49,Beans,49,95501,None,Diarrhea,9744,Electricity,13057,5,Check food/donations
+2012-04-22,68,61,68,37,124991,76109,48882,7,Rice,7,12075,None,Fever,22500,Gas,26200,7,Check food/donations
+2020-12-30,100,90,100,31,3853,69979,-66126,10,Rice,10,18530,None,Diarrhea,1486,Internet,41545,10,Check food/donations
+2002-08-30,42,47,42,30,85316,104688,-19372,0,None,0,0,Sickness,None,0,Internet,37702,3,Check food/donations
+2016-09-28,94,31,94,28,42432,71923,-29491,63,Beans,63,114723,None,Malaria,13405,Gas,38399,9,Check food/donations
+2016-10-25,81,66,81,38,146545,68311,78234,15,Maize Flour,15,28275,Power Outage,Malaria,24314,Internet,22560,6,Check food/donations
+2010-05-31,51,63,51,25,78277,70366,7911,0,None,0,0,None,Malaria,23739,Electricity,45553,8,Stable
+2004-01-20,56,77,56,38,60707,43577,17130,0,None,0,0,None,Diarrhea,12145,Internet,40158,9,Stable
+2004-04-04,33,63,33,28,87041,113953,-26912,0,None,0,0,Water Shortage,Malaria,19273,Water,32261,4,Check food/donations
+2002-06-05,20,26,20,17,100487,81841,18646,0,None,0,0,None,Diarrhea,6025,Internet,20205,8,Stable
+2017-10-11,22,51,22,33,63202,37947,25255,0,None,0,0,Fire,Malaria,6986,Gas,42065,7,Stable
+2002-04-17,31,37,31,36,68625,21666,46959,0,None,0,0,None,Flu,1676,Water,28205,3,Stable
+2001-05-10,99,88,99,34,54276,117335,-63059,11,Vegetables,11,18117,None,Malaria,3561,Water,17318,6,Check food/donations
+2019-05-14,47,59,47,11,139335,72300,67035,0,None,0,0,None,Diarrhea,7883,Electricity,46463,5,Stable
+2019-11-29,77,48,77,27,17301,40588,-23287,29,Vegetables,29,52084,None,Diarrhea,11931,Internet,15061,3,Check food/donations
+2006-05-29,73,20,73,16,97543,54980,42563,53,Beans,53,101018,Sickness,Malaria,29947,Gas,10405,7,Check food/donations
+2007-02-13,57,63,57,10,144686,57353,87333,0,None,0,0,None,Malaria,18876,Gas,49950,6,Stable
+2007-07-13,71,70,71,30,4217,83931,-79714,1,Maize Flour,1,1513,Sickness,Malaria,10598,Gas,15398,8,Check food/donations
+2017-07-24,51,11,51,8,110933,21529,89404,40,Rice,40,62360,None,Flu,27269,Electricity,32675,10,Check food/donations
+2015-03-03,90,74,90,22,73232,87439,-14207,16,Rice,16,31840,Water Shortage,Fever,2656,Water,28279,6,Check food/donations
+2003-10-21,35,65,35,36,119083,108245,10838,0,None,0,0,None,Flu,4246,Water,29605,9,Stable
+2012-01-13,94,68,94,18,80672,99828,-19156,26,Beans,26,47086,Water Shortage,Diarrhea,2837,Water,25790,6,Check food/donations
+2002-05-26,89,91,89,36,102918,78311,24607,0,None,0,0,None,Fever,908,Gas,26676,8,Stable
+2007-12-01,54,93,54,31,77870,63750,14120,0,None,0,0,None,Diarrhea,2588,Electricity,44360,9,Stable
+2003-09-23,89,19,89,12,8420,109531,-101111,70,Beans,70,120050,None,Flu,23630,Gas,35876,7,Check food/donations
+2002-12-16,79,66,79,29,74230,64913,9317,13,Beans,13,21996,None,Fever,17406,Internet,42421,5,Check food/donations
+2009-05-31,35,70,35,15,108674,97409,11265,0,None,0,0,None,Diarrhea,22972,Gas,30969,4,Stable
+2014-09-04,60,29,60,6,95418,41321,54097,31,Rice,31,55180,None,Fever,23312,Water,49727,9,Check food/donations
+2002-10-12,23,85,23,16,147906,24811,123095,0,None,0,0,Power Outage,Malaria,5148,Gas,26260,5,Stable
+2009-02-12,87,37,87,24,48310,24864,23446,50,Maize Flour,50,89600,None,Malaria,864,Water,44925,6,Check food/donations
+2020-08-02,64,70,64,10,128115,32863,95252,0,None,0,0,None,Malaria,5538,Gas,47756,6,Stable
+2016-06-30,79,61,79,5,22522,48318,-25796,18,Maize Flour,18,27324,None,Flu,28527,Electricity,42421,4,Check food/donations
+1999-03-29,46,29,46,13,136292,110161,26131,17,Beans,17,25908,None,Malaria,3362,Electricity,12356,6,Check food/donations
+2020-03-05,38,83,38,16,31515,27899,3616,0,None,0,0,Water Shortage,Flu,8075,Internet,24092,6,Stable
+2020-12-20,25,52,25,8,25646,34428,-8782,0,None,0,0,Power Outage,Diarrhea,25847,Water,30892,6,Check food/donations
+2005-01-14,62,39,62,33,147925,46516,101409,23,Rice,23,41975,None,Fever,28220,Internet,27686,3,Check food/donations
+2001-08-29,32,17,32,12,3879,89556,-85677,15,Rice,15,24795,None,Flu,11135,Water,43730,5,Check food/donations
+2000-08-31,41,74,41,9,112781,51624,61157,0,None,0,0,None,Malaria,19529,Water,19889,5,Stable
+2003-01-29,66,41,66,22,144388,99518,44870,25,Beans,25,45750,None,Malaria,8290,Water,45063,4,Check food/donations
+2017-02-06,33,77,33,23,75652,34382,41270,0,None,0,0,Power Outage,Flu,11842,Internet,13734,8,Stable
+2012-07-30,80,95,80,12,95979,60181,35798,0,None,0,0,None,Fever,1388,Electricity,15719,9,Stable
+2013-12-09,96,37,96,10,59929,40683,19246,59,Beans,59,103663,Power Outage,Diarrhea,27941,Electricity,17839,7,Check food/donations
+2014-07-03,99,36,99,26,90604,71751,18853,63,Rice,63,104769,None,Malaria,1374,Gas,25325,4,Check food/donations
+2001-06-05,75,77,75,40,53807,76890,-23083,0,None,0,0,Fire,Fever,39,Internet,23797,7,Check food/donations
+2011-07-30,32,22,32,10,23018,95697,-72679,10,Rice,10,15660,Water Shortage,Flu,4844,Internet,13717,4,Check food/donations
+2010-03-26,98,24,98,23,37642,97015,-59373,74,Beans,74,116772,Sickness,Diarrhea,17956,Internet,10380,5,Check food/donations
+2019-04-05,21,98,21,5,36516,96061,-59545,0,None,0,0,None,None,0,Electricity,18978,8,Check food/donations
+2005-06-02,21,47,21,5,72724,108863,-36139,0,None,0,0,Fire,Fever,24265,Water,48353,3,Check food/donations
+1999-03-09,79,98,79,36,132105,49752,82353,0,None,0,0,Sickness,Malaria,14745,Water,36303,7,Stable
+2019-03-17,38,44,38,30,140816,54061,86755,0,None,0,0,None,Fever,17520,Electricity,10401,6,Stable
+2019-02-01,65,42,65,40,9650,57496,-47846,23,Beans,23,42504,None,Flu,23473,Water,39125,5,Check food/donations
+2016-08-02,38,96,38,22,85654,87136,-1482,0,None,0,0,None,Fever,6812,Internet,11401,6,Check food/donations
+2001-08-07,68,34,68,15,29328,46131,-16803,34,Rice,34,65314,None,Malaria,3022,Gas,15710,6,Check food/donations
+2012-07-26,63,86,63,28,70324,25475,44849,0,None,0,0,None,Fever,4292,Internet,10923,9,Stable
+2020-12-29,99,22,99,5,119294,88512,30782,77,Beans,77,150612,None,Diarrhea,5046,Gas,17906,8,Check food/donations
+2002-11-18,78,94,78,6,113629,69558,44071,0,None,0,0,None,None,0,Electricity,14311,7,Stable
+2011-10-06,60,43,60,21,72863,101188,-28325,17,Maize Flour,17,29359,Sickness,Fever,29439,Water,29068,6,Check food/donations
+2004-04-02,33,80,33,35,55726,102073,-46347,0,None,0,0,None,Malaria,21899,Internet,40379,7,Check food/donations
+2013-12-06,100,73,100,16,101196,93303,7893,27,Rice,27,49653,None,Flu,29139,Electricity,35382,7,Check food/donations
+2001-02-27,30,37,30,8,140132,78784,61348,0,None,0,0,Fire,Flu,29000,Electricity,16675,8,Stable
+2001-09-07,84,59,84,8,82426,33177,49249,25,Vegetables,25,50000,None,Diarrhea,21719,Water,12785,6,Check food/donations
+2004-12-14,37,61,37,36,126330,86034,40296,0,None,0,0,Fire,Diarrhea,6031,Electricity,22424,9,Stable
+2006-08-01,77,11,77,10,77595,94603,-17008,66,Beans,66,116622,None,Diarrhea,15472,Gas,26343,7,Check food/donations
+2004-04-26,85,32,85,15,13536,74225,-60689,53,Maize Flour,53,96566,None,Malaria,29375,Electricity,19819,3,Check food/donations
+2005-05-24,79,32,79,18,107040,46129,60911,47,Maize Flour,47,71957,Water Shortage,Malaria,12040,Electricity,23108,7,Check food/donations
+2019-02-17,96,22,96,19,142165,43278,98887,74,Vegetables,74,140304,None,Flu,21629,Electricity,21744,6,Check food/donations
+2013-05-21,66,23,66,5,69630,22980,46650,43,Beans,43,77701,None,Flu,10886,Gas,42412,8,Check food/donations
+2015-04-27,82,53,82,11,46818,106288,-59470,29,Beans,29,46487,None,Fever,29932,Gas,17104,8,Check food/donations
+2006-11-20,77,84,77,7,130950,41357,89593,0,None,0,0,None,Fever,13111,Electricity,14968,7,Stable
+2020-09-22,97,89,97,12,56060,116233,-60173,8,Rice,8,14320,None,Fever,16222,Gas,31309,3,Check food/donations
+2015-04-25,57,48,57,23,34791,93609,-58818,9,Vegetables,9,15804,Fire,None,0,Electricity,44919,8,Check food/donations
+2010-06-19,40,74,40,40,80486,94645,-14159,0,None,0,0,Power Outage,Malaria,16487,Internet,18068,7,Check food/donations
+2004-01-29,51,40,51,30,130270,107822,22448,11,Beans,11,19690,None,Diarrhea,24717,Electricity,31992,6,Check food/donations
+2016-05-19,70,83,70,25,1018,65518,-64500,0,None,0,0,None,None,0,Internet,34783,5,Check food/donations
+2020-03-27,74,17,74,8,8800,95270,-86470,57,Vegetables,57,104937,None,Malaria,26531,Water,40360,10,Check food/donations
+2010-01-24,54,64,54,39,48827,43956,4871,0,None,0,0,None,Malaria,21087,Water,41640,7,Stable
+2018-08-03,61,25,61,18,8682,114885,-106203,36,Rice,36,66780,None,Malaria,9252,Electricity,37951,8,Check food/donations
+2014-07-01,30,21,30,15,119661,55481,64180,9,Rice,9,14400,None,Malaria,17481,Internet,30289,9,Check food/donations
+2005-05-05,53,21,53,17,93921,25581,68340,32,Vegetables,32,56512,None,Malaria,3050,Electricity,38166,9,Check food/donations
+1999-02-04,28,25,28,6,89311,116921,-27610,3,Rice,3,4662,Sickness,Diarrhea,11308,Water,32979,7,Check food/donations
+2007-10-27,78,92,78,16,58203,101801,-43598,0,None,0,0,None,Diarrhea,14865,Gas,14108,6,Check food/donations
+2006-12-27,40,43,40,32,32650,93705,-61055,0,None,0,0,None,Malaria,7674,Gas,48167,4,Check food/donations
+2010-10-23,72,14,72,6,92314,91309,1005,58,Vegetables,58,91176,Power Outage,Diarrhea,23654,Internet,48532,10,Check food/donations
+2007-02-20,70,78,70,36,36379,67865,-31486,0,None,0,0,None,Malaria,21542,Gas,32806,9,Check food/donations
+2001-12-30,65,92,65,28,92303,53782,38521,0,None,0,0,None,None,0,Gas,27366,9,Stable
+2004-11-05,42,24,42,24,34460,30250,4210,18,Vegetables,18,32166,None,Flu,25366,Internet,38601,4,Check food/donations
+2013-08-22,46,40,46,16,143582,64931,78651,6,Vegetables,6,9354,None,Flu,3757,Internet,20699,9,Check food/donations
+2011-11-27,67,62,67,34,93415,96002,-2587,5,Rice,5,8615,Fire,Malaria,21849,Electricity,17502,8,Check food/donations
+2008-01-08,90,64,90,29,30799,65235,-34436,26,Rice,26,41288,None,None,0,Gas,11706,9,Check food/donations
+2015-01-04,51,13,51,7,68190,65339,2851,38,Vegetables,38,74100,Sickness,None,0,Electricity,48742,7,Check food/donations
+2008-09-03,71,26,71,20,106161,32126,74035,45,Beans,45,74295,None,None,0,Gas,11262,7,Check food/donations
+2004-12-24,33,30,33,27,16077,68003,-51926,3,Beans,3,5013,Fire,Fever,13692,Water,34491,10,Check food/donations
+2012-10-13,20,75,20,18,94055,23696,70359,0,None,0,0,None,Malaria,16496,Water,46689,4,Stable
+2020-10-18,26,87,26,13,3008,34875,-31867,0,None,0,0,None,Diarrhea,24460,Water,11669,5,Check food/donations
+2017-10-16,70,21,70,19,9396,34272,-24876,49,Maize Flour,49,97069,None,Flu,5798,Water,44239,4,Check food/donations
+2011-01-05,78,15,78,15,111010,35578,75432,63,Vegetables,63,108360,None,None,0,Electricity,16682,4,Check food/donations
+2003-02-02,53,39,53,38,52189,100112,-47923,14,Beans,14,24822,None,Flu,21247,Gas,16531,5,Check food/donations
+2006-07-16,44,36,44,5,73039,46281,26758,8,Rice,8,13952,None,Flu,23568,Internet,44364,9,Check food/donations
+2007-02-06,36,44,36,19,63681,57278,6403,0,None,0,0,None,None,0,Water,14537,4,Stable
+2001-08-10,62,69,62,28,95788,38397,57391,0,None,0,0,None,Flu,23605,Electricity,47677,8,Stable
+2011-03-08,75,71,75,10,147659,61897,85762,4,Maize Flour,4,7936,None,Flu,20089,Electricity,13095,9,Check food/donations
+2006-02-17,85,55,85,6,75876,42171,33705,30,Rice,30,50280,Sickness,Malaria,16904,Electricity,16607,6,Check food/donations
+2004-10-11,40,65,40,31,120321,75810,44511,0,None,0,0,None,Flu,1320,Electricity,27895,4,Stable
+2008-05-19,87,83,87,13,41124,50541,-9417,4,Vegetables,4,7480,None,Malaria,12119,Internet,44523,9,Check food/donations
+2008-10-03,51,31,51,27,21370,101020,-79650,20,Beans,20,34280,Fire,Malaria,23139,Gas,35920,10,Check food/donations
+2017-11-15,30,43,30,40,32619,108288,-75669,0,None,0,0,None,Fever,21607,Internet,24947,4,Check food/donations
+2013-05-13,84,49,84,29,78990,105163,-26173,35,Vegetables,35,52990,None,Flu,26494,Internet,41024,7,Check food/donations
+2000-02-28,83,74,83,37,109635,32080,77555,9,Beans,9,14742,None,Diarrhea,7854,Water,24705,5,Check food/donations
+2011-02-23,34,42,34,20,57996,33389,24607,0,None,0,0,Sickness,Fever,28510,Internet,36008,10,Stable
+2013-11-07,76,67,76,17,68190,21115,47075,9,Beans,9,17244,Sickness,Malaria,11768,Electricity,33307,6,Check food/donations
+2013-10-08,37,81,37,10,96057,61803,34254,0,None,0,0,Power Outage,Fever,23671,Electricity,45584,6,Stable
+2009-12-12,37,38,37,15,23840,32664,-8824,0,None,0,0,Fire,Fever,26594,Electricity,40765,7,Check food/donations
+2006-11-05,30,15,30,8,34524,106968,-72444,15,Vegetables,15,26235,None,Fever,24287,Water,30601,10,Check food/donations
+2002-06-21,41,76,41,35,32289,78925,-46636,0,None,0,0,Fire,Flu,6447,Internet,22463,4,Check food/donations
+2004-10-09,93,29,93,20,94985,82806,12179,64,Maize Flour,64,109632,None,Malaria,18164,Internet,28311,6,Check food/donations
+2018-11-26,89,19,89,16,111121,106396,4725,70,Vegetables,70,125230,Fire,Flu,22287,Water,15148,4,Check food/donations
+2015-07-09,84,35,84,7,58101,37199,20902,49,Vegetables,49,86583,None,Fever,29837,Water,29679,7,Check food/donations
+2000-07-24,98,87,98,10,47126,46947,179,11,Vegetables,11,19074,None,None,0,Internet,49343,10,Check food/donations
+2005-07-21,38,77,38,35,119096,34865,84231,0,None,0,0,Power Outage,Fever,21614,Electricity,15401,6,Stable
+2009-07-22,54,74,54,12,23233,74430,-51197,0,None,0,0,None,Flu,29497,Internet,10764,10,Check food/donations
+2003-12-03,73,25,73,8,44448,44441,7,48,Vegetables,48,72576,Fire,Flu,11840,Water,12386,5,Check food/donations
+2006-09-29,57,24,57,18,51495,119450,-67955,33,Rice,33,54087,Sickness,Flu,20352,Water,36545,3,Check food/donations
+2019-04-14,85,80,85,14,5002,85036,-80034,5,Rice,5,7530,None,Fever,20842,Electricity,47405,6,Check food/donations
+2017-05-10,88,99,88,15,37953,99266,-61313,0,None,0,0,None,None,0,Electricity,38610,3,Check food/donations
+1999-05-28,42,84,42,15,38960,33007,5953,0,None,0,0,None,Malaria,4813,Water,15579,3,Stable
+2005-05-06,25,83,25,28,31903,87868,-55965,0,None,0,0,Sickness,Diarrhea,14809,Internet,25463,7,Check food/donations
+2014-12-03,82,36,82,12,55339,103528,-48189,46,Vegetables,46,87906,None,Flu,4531,Internet,11452,7,Check food/donations
+2015-07-13,34,59,34,24,99546,25346,74200,0,None,0,0,None,None,0,Electricity,43363,6,Stable
+2008-07-26,57,92,57,23,82755,55712,27043,0,None,0,0,Power Outage,Flu,12940,Internet,49955,8,Stable
+2013-02-03,60,64,60,16,32304,49324,-17020,0,None,0,0,None,Fever,5945,Gas,49024,3,Check food/donations
+2011-06-13,72,60,72,8,117266,57502,59764,12,Beans,12,22476,None,Flu,16705,Electricity,39116,3,Check food/donations
+2014-01-05,33,66,33,22,7869,92605,-84736,0,None,0,0,None,None,0,Electricity,38450,5,Check food/donations
+2019-11-19,48,18,48,15,4433,27275,-22842,30,Beans,30,51000,Fire,None,0,Gas,23185,4,Check food/donations
+2012-06-18,31,35,31,22,66376,60378,5998,0,None,0,0,None,Flu,192,Internet,36436,6,Stable
+2017-06-17,77,24,77,23,138177,65413,72764,53,Maize Flour,53,83528,None,Diarrhea,16170,Gas,12108,9,Check food/donations
+2005-10-26,67,52,67,32,133193,64368,68825,15,Rice,15,26355,Power Outage,None,0,Internet,28861,9,Check food/donations
+1999-09-14,27,81,27,5,15783,98943,-83160,0,None,0,0,None,Fever,28260,Gas,11750,6,Check food/donations
+2017-01-20,45,33,45,21,73428,89355,-15927,12,Beans,12,18744,None,Fever,14881,Water,18783,9,Check food/donations
+2016-01-07,100,78,100,24,11368,93867,-82499,22,Rice,22,38478,None,Flu,2463,Electricity,20056,4,Check food/donations
+2020-11-18,82,55,82,24,34889,97557,-62668,27,Vegetables,27,50490,Sickness,Malaria,5364,Gas,46752,8,Check food/donations
+2018-07-03,30,52,30,21,117865,118867,-1002,0,None,0,0,Power Outage,Malaria,9133,Internet,24547,5,Check food/donations
+2010-12-28,91,53,91,28,69106,110107,-41001,38,Vegetables,38,65056,None,Flu,25979,Electricity,14281,7,Check food/donations
+2020-05-23,44,90,44,9,80384,70512,9872,0,None,0,0,None,None,0,Water,38599,7,Stable
+2015-03-08,93,51,93,26,72082,51188,20894,42,Rice,42,72324,Power Outage,Flu,16349,Gas,49588,10,Check food/donations
+2009-02-03,36,16,36,8,89412,22921,66491,20,Vegetables,20,37520,None,None,0,Electricity,35184,9,Check food/donations
+2010-01-23,49,72,49,34,23998,44305,-20307,0,None,0,0,Fire,Malaria,6038,Electricity,14195,7,Check food/donations
+2002-05-19,20,87,20,24,144928,111487,33441,0,None,0,0,Water Shortage,Diarrhea,3246,Electricity,35272,8,Stable
+2007-05-11,94,33,94,13,114595,66289,48306,61,Vegetables,61,118218,None,Malaria,28586,Water,22097,3,Check food/donations
+2013-11-21,67,27,67,10,73823,63721,10102,40,Vegetables,40,66680,Sickness,Malaria,5330,Electricity,19445,3,Check food/donations
+2012-05-08,56,54,56,18,135624,38438,97186,2,Vegetables,2,3658,None,Diarrhea,15814,Internet,17240,5,Check food/donations
+2020-05-15,23,41,23,12,92185,40534,51651,0,None,0,0,None,Flu,17435,Gas,49301,10,Stable
+2014-07-20,38,99,38,24,97870,118166,-20296,0,None,0,0,None,Flu,25245,Electricity,11833,6,Check food/donations
+2003-11-17,35,59,35,15,30941,69239,-38298,0,None,0,0,Sickness,Fever,23845,Gas,13685,4,Check food/donations
+2015-05-06,59,25,59,15,140253,116545,23708,34,Vegetables,34,66844,None,Flu,18014,Gas,13238,5,Check food/donations
+2002-12-05,56,43,56,33,102077,64160,37917,13,Rice,13,23738,Water Shortage,Flu,21526,Water,13438,4,Check food/donations
+2018-01-18,73,23,73,14,29906,27669,2237,50,Beans,50,82350,None,Malaria,29939,Electricity,12409,9,Check food/donations
+2013-10-25,86,30,86,9,52798,116149,-63351,56,Beans,56,104888,None,Fever,5191,Gas,20586,4,Check food/donations
+2018-11-10,43,84,43,33,125649,89987,35662,0,None,0,0,None,Fever,16265,Water,28160,9,Stable
+2018-10-14,84,91,84,27,56032,113906,-57874,0,None,0,0,Sickness,Flu,24139,Internet,32814,4,Check food/donations
+2007-09-12,48,21,48,16,44243,40096,4147,27,Rice,27,46845,None,Diarrhea,25980,Gas,18258,3,Check food/donations
+2008-04-28,53,69,53,18,128968,83227,45741,0,None,0,0,None,Malaria,15982,Electricity,43844,9,Stable
+2007-12-22,55,25,55,21,38614,52526,-13912,30,Beans,30,45480,Water Shortage,Fever,14094,Internet,13696,9,Check food/donations
+2007-08-19,79,83,79,11,50867,60185,-9318,0,None,0,0,None,Diarrhea,21923,Water,41415,9,Check food/donations
+2010-10-06,36,22,36,9,105984,80299,25685,14,Maize Flour,14,22680,None,Diarrhea,22109,Gas,17386,9,Check food/donations
+2002-05-07,35,42,35,38,124869,85653,39216,0,None,0,0,None,Fever,21486,Electricity,21581,10,Stable
+2012-01-23,76,90,76,38,121240,115716,5524,0,None,0,0,None,Fever,2687,Electricity,38671,4,Stable
+2012-01-17,54,27,54,21,122436,28563,93873,27,Rice,27,47169,None,Fever,3110,Water,18372,4,Check food/donations
+2013-11-09,59,27,59,17,60824,117587,-56763,32,Beans,32,55008,Water Shortage,Malaria,18458,Electricity,28398,8,Check food/donations
+2020-02-02,49,55,49,21,68819,59251,9568,0,None,0,0,None,Malaria,20933,Internet,42189,5,Stable
+1999-06-21,20,48,20,39,83535,24049,59486,0,None,0,0,None,None,0,Water,18666,5,Stable
+2004-12-17,76,44,76,11,62305,114731,-52426,32,Beans,32,58944,None,Malaria,15917,Internet,33319,7,Check food/donations
+2014-05-21,88,70,88,20,109233,46324,62909,18,Beans,18,27414,None,Fever,21251,Electricity,14079,7,Check food/donations
+2008-04-05,48,20,48,19,69101,63493,5608,28,Maize Flour,28,48776,None,Diarrhea,21359,Water,10761,6,Check food/donations
+2005-09-21,51,62,51,8,83726,103288,-19562,0,None,0,0,None,Flu,20899,Internet,43199,7,Check food/donations
+2011-03-16,76,50,76,32,98013,62242,35771,26,Beans,26,39130,None,None,0,Internet,12120,4,Check food/donations
+2010-01-15,24,78,24,17,54210,119866,-65656,0,None,0,0,None,Fever,18681,Internet,29520,8,Check food/donations
+2011-08-19,93,59,93,32,100754,99180,1574,34,Rice,34,51986,None,Flu,2313,Electricity,42161,3,Check food/donations
+2020-05-31,66,55,66,38,29962,53611,-23649,11,Maize Flour,11,17061,None,Fever,18363,Internet,30382,6,Check food/donations
+2012-09-08,47,27,47,10,105832,96009,9823,20,Beans,20,36980,Sickness,Malaria,27760,Internet,47187,10,Check food/donations
+2018-06-17,69,87,69,24,29074,68344,-39270,0,None,0,0,None,Malaria,13757,Water,32698,5,Check food/donations
+2016-09-01,99,81,99,19,96522,84224,12298,18,Maize Flour,18,29232,Sickness,Flu,26492,Internet,33459,4,Check food/donations
+2007-01-12,77,62,77,31,16413,23229,-6816,15,Rice,15,25950,Sickness,Malaria,10624,Internet,22954,4,Check food/donations
+2003-05-27,73,65,73,35,28159,71819,-43660,8,Vegetables,8,15344,Fire,Fever,14999,Internet,36273,6,Check food/donations
+2008-09-18,29,45,29,19,13625,27553,-13928,0,None,0,0,Water Shortage,Flu,20945,Electricity,15648,6,Check food/donations
+2020-01-30,31,96,31,20,54103,84264,-30161,0,None,0,0,Power Outage,Fever,23570,Electricity,26792,9,Check food/donations
+2004-09-08,27,53,27,37,7494,85121,-77627,0,None,0,0,None,None,0,Water,27920,7,Check food/donations
+2012-10-15,82,35,82,6,91597,43976,47621,47,Rice,47,91650,None,Diarrhea,27368,Water,40440,7,Check food/donations
+2001-06-12,76,23,76,12,15618,98683,-83065,53,Rice,53,82468,None,Malaria,13654,Electricity,40454,9,Check food/donations
+2019-05-24,82,59,82,37,121414,63079,58335,23,Rice,23,41676,None,None,0,Electricity,40325,9,Check food/donations
+2009-06-28,49,40,49,12,20684,101119,-80435,9,Rice,9,17091,None,Flu,21483,Electricity,45089,6,Check food/donations
+2016-09-08,54,10,54,7,135995,111884,24111,44,Rice,44,71192,None,None,0,Internet,43556,9,Check food/donations
+2012-12-17,100,70,100,20,140526,106666,33860,30,Vegetables,30,57900,Water Shortage,Diarrhea,28153,Internet,33795,6,Check food/donations
+2012-10-05,21,31,21,6,57268,89407,-32139,0,None,0,0,None,Diarrhea,17979,Internet,29581,3,Check food/donations
+2012-03-17,64,100,64,32,35995,110644,-74649,0,None,0,0,None,Flu,26696,Gas,43597,6,Check food/donations
+2008-06-17,93,30,93,18,98252,85631,12621,63,Rice,63,106029,Power Outage,Diarrhea,11213,Internet,14537,6,Check food/donations
+2017-01-13,43,76,43,31,46681,32674,14007,0,None,0,0,None,Malaria,26644,Gas,43462,3,Stable
+2010-11-19,75,18,75,9,35509,80540,-45031,57,Vegetables,57,86127,Sickness,Malaria,2151,Gas,17300,6,Check food/donations
+2020-09-14,96,80,96,38,22703,101312,-78609,16,Beans,16,28272,Power Outage,None,0,Gas,41651,6,Check food/donations
+2010-12-02,48,46,48,27,18312,58826,-40514,2,Maize Flour,2,3290,None,None,0,Internet,45439,9,Check food/donations
+2013-04-02,59,54,59,5,143770,67094,76676,5,Vegetables,5,9640,None,Flu,17636,Water,39368,10,Check food/donations
+1999-01-16,58,73,58,6,56591,27269,29322,0,None,0,0,Sickness,Malaria,24599,Water,21469,9,Stable
+1999-04-15,77,35,77,31,25037,53401,-28364,42,Rice,42,64134,None,Fever,28414,Water,48967,5,Check food/donations
+2008-02-13,45,16,45,12,39435,37689,1746,29,Maize Flour,29,49648,Sickness,Malaria,9656,Electricity,34279,4,Check food/donations
+2006-04-19,70,89,70,30,4030,84295,-80265,0,None,0,0,Fire,Fever,1041,Gas,33216,3,Check food/donations
+2004-07-31,25,15,25,8,32772,31603,1169,10,Vegetables,10,18510,None,Fever,11115,Electricity,13908,6,Check food/donations
+2018-12-30,52,69,52,16,32580,35220,-2640,0,None,0,0,None,None,0,Gas,20719,4,Check food/donations
+2018-03-06,31,49,31,27,97189,72380,24809,0,None,0,0,Sickness,Diarrhea,19660,Electricity,47396,8,Stable
+2000-07-13,94,14,94,5,143824,94815,49009,80,Beans,80,142560,None,Diarrhea,2699,Water,28418,3,Check food/donations
+2011-08-24,47,96,47,28,102427,78163,24264,0,None,0,0,Sickness,None,0,Water,43677,4,Stable
+2003-11-30,48,77,48,11,20717,63978,-43261,0,None,0,0,Power Outage,Flu,129,Electricity,31162,8,Check food/donations
+2007-02-08,76,77,76,16,63913,119664,-55751,0,None,0,0,Sickness,Fever,23306,Gas,49042,7,Check food/donations
+2012-04-02,73,16,73,9,106876,112702,-5826,57,Beans,57,93651,Power Outage,None,0,Gas,48632,3,Check food/donations
+2017-05-12,80,25,80,20,47627,39033,8594,55,Maize Flour,55,108075,None,Flu,24325,Gas,30281,3,Check food/donations
+2009-05-08,44,86,44,35,149201,44537,104664,0,None,0,0,None,Malaria,4478,Internet,15618,6,Stable
+2018-01-08,71,24,71,5,38416,79398,-40982,47,Vegetables,47,78067,Water Shortage,None,0,Gas,39637,10,Check food/donations
+2003-04-15,65,68,65,9,1624,112926,-111302,0,None,0,0,None,Malaria,21761,Water,40825,5,Check food/donations
+2013-09-28,31,78,31,37,102358,82592,19766,0,None,0,0,None,Fever,26998,Internet,37343,6,Stable
+2014-01-25,26,74,26,10,121332,51113,70219,0,None,0,0,None,Diarrhea,28344,Gas,35472,8,Stable
+2014-09-15,58,30,58,20,46525,70597,-24072,28,Maize Flour,28,43652,Sickness,Diarrhea,26627,Electricity,18006,10,Check food/donations
+2003-04-10,82,99,82,8,70060,118287,-48227,0,None,0,0,None,None,0,Electricity,49479,6,Check food/donations
+2007-08-05,49,59,49,33,89163,109654,-20491,0,None,0,0,Fire,Fever,26269,Gas,26725,3,Check food/donations
+2012-09-10,29,39,29,34,2685,59563,-56878,0,None,0,0,Sickness,Flu,24619,Electricity,16649,6,Check food/donations
+2018-01-21,94,44,94,6,139204,96964,42240,50,Beans,50,93900,None,Flu,11959,Water,25470,7,Check food/donations
+2001-01-20,95,60,95,38,91377,75333,16044,35,Vegetables,35,63840,None,Malaria,12808,Water,16094,4,Check food/donations
+2009-11-20,40,47,40,39,84885,116232,-31347,0,None,0,0,None,Malaria,10339,Electricity,35288,6,Check food/donations
+2002-09-25,23,55,23,21,29,28303,-28274,0,None,0,0,None,None,0,Electricity,32578,5,Check food/donations
+2016-10-30,96,14,96,9,91418,58477,32941,82,Vegetables,82,136530,Sickness,Malaria,18695,Electricity,15990,3,Check food/donations
+2002-07-25,93,46,93,16,125407,89281,36126,47,Maize Flour,47,88783,Power Outage,Flu,7237,Gas,20590,3,Check food/donations
+2014-12-19,47,10,47,8,138928,78917,60011,37,Vegetables,37,66341,Power Outage,Malaria,14049,Gas,22845,5,Check food/donations
+2018-07-08,68,24,68,15,67150,30768,36382,44,Rice,44,75724,None,Fever,5162,Water,33008,3,Check food/donations
+2013-02-14,87,70,87,31,29642,80412,-50770,17,Rice,17,29172,None,None,0,Internet,12546,8,Check food/donations
+2010-02-08,37,88,37,6,92280,65780,26500,0,None,0,0,Sickness,Diarrhea,25068,Electricity,25806,9,Stable
+2000-08-26,27,16,27,5,143537,30394,113143,11,Maize Flour,11,21494,Sickness,Diarrhea,19905,Internet,41181,4,Check food/donations
+2003-12-04,27,67,27,36,5985,78385,-72400,0,None,0,0,None,None,0,Internet,39233,4,Check food/donations
+2000-12-03,23,40,23,36,56808,70999,-14191,0,None,0,0,None,None,0,Electricity,23625,6,Check food/donations
+2001-09-16,91,14,91,10,73897,96264,-22367,77,Rice,77,143682,None,Flu,25972,Electricity,11356,3,Check food/donations
+2000-02-24,93,77,93,11,100338,98991,1347,16,Vegetables,16,29424,None,Diarrhea,16341,Water,18726,8,Check food/donations
+2006-02-14,31,54,31,33,47903,36199,11704,0,None,0,0,None,Flu,13256,Gas,44935,8,Stable
+2017-09-09,70,88,70,35,39580,55875,-16295,0,None,0,0,Water Shortage,Fever,19385,Water,17403,4,Check food/donations
+2007-11-19,53,92,53,25,43680,45448,-1768,0,None,0,0,None,Fever,20492,Internet,29658,6,Check food/donations
+2019-09-18,25,26,25,19,132884,95921,36963,0,None,0,0,None,Fever,15770,Water,33753,5,Stable
+2007-05-17,63,77,63,6,137286,71789,65497,0,None,0,0,None,Flu,11750,Gas,29924,4,Stable
+2009-08-23,64,52,64,38,77028,47990,29038,12,Vegetables,12,18156,Water Shortage,Fever,18405,Internet,49987,10,Check food/donations
+2016-09-29,67,54,67,40,571,32481,-31910,13,Rice,13,20111,None,Malaria,18934,Water,23557,6,Check food/donations
+2008-02-20,37,45,37,20,131686,79964,51722,0,None,0,0,None,Flu,29316,Gas,21658,4,Stable
+2018-01-06,42,52,42,6,124176,37600,86576,0,None,0,0,None,Malaria,25069,Internet,28978,7,Stable
+2002-09-29,41,33,41,24,132276,33789,98487,8,Vegetables,8,14016,Power Outage,Malaria,10532,Gas,22910,10,Check food/donations
+2014-07-02,95,20,95,16,100560,29580,70980,75,Rice,75,116475,Fire,None,0,Electricity,16979,4,Check food/donations
+2010-09-06,69,29,69,25,68027,53841,14186,40,Rice,40,78520,Sickness,Fever,15997,Water,12237,7,Check food/donations
+2000-04-13,37,56,37,33,2093,40169,-38076,0,None,0,0,None,Diarrhea,181,Gas,19526,3,Check food/donations
+2006-10-22,96,73,96,37,13976,35892,-21916,23,Beans,23,40595,None,Malaria,10712,Electricity,13207,10,Check food/donations
+2019-12-26,97,80,97,14,102193,88098,14095,17,Beans,17,26469,None,Flu,25608,Water,49754,5,Check food/donations
+2007-09-06,65,58,65,7,68128,30023,38105,7,Rice,7,11942,None,Diarrhea,27965,Gas,30762,10,Check food/donations
+2008-05-13,28,90,28,13,75928,87351,-11423,0,None,0,0,None,Fever,499,Electricity,33816,7,Check food/donations
+2015-09-17,61,72,61,32,111811,43117,68694,0,None,0,0,Water Shortage,Flu,6293,Internet,44072,5,Stable
+2017-08-19,76,89,76,14,99280,100988,-1708,0,None,0,0,Sickness,None,0,Internet,43278,6,Check food/donations
+2011-05-20,66,52,66,10,57152,107888,-50736,14,Vegetables,14,22582,None,Malaria,4706,Water,38533,7,Check food/donations
+2002-05-19,38,100,38,22,47578,39559,8019,0,None,0,0,None,Diarrhea,22889,Gas,47983,3,Stable
+2004-08-29,95,62,95,30,27413,96058,-68645,33,Vegetables,33,55176,None,Diarrhea,9070,Gas,11250,7,Check food/donations
+2010-04-16,79,43,79,33,90806,73058,17748,36,Rice,36,71748,None,Flu,8917,Gas,46738,3,Check food/donations
+2002-07-10,74,65,74,27,92309,93246,-937,9,Beans,9,16317,None,Fever,13873,Internet,23134,8,Check food/donations
+2018-03-17,55,81,55,26,70281,93817,-23536,0,None,0,0,None,None,0,Electricity,20572,4,Check food/donations
+2005-05-24,83,15,83,8,35500,38928,-3428,68,Beans,68,130220,None,Flu,29163,Electricity,40038,8,Check food/donations
+2019-09-23,39,86,39,27,33250,82146,-48896,0,None,0,0,None,Fever,18621,Gas,41254,9,Check food/donations
+2017-01-21,62,16,62,13,110838,37348,73490,46,Maize Flour,46,70334,Sickness,Fever,16564,Electricity,26867,6,Check food/donations
+2015-06-11,45,42,45,17,9955,68065,-58110,3,Rice,3,5133,Power Outage,Flu,24096,Water,20223,9,Check food/donations
+2002-11-13,62,31,62,9,9679,101929,-92250,31,Maize Flour,31,58528,None,Fever,25280,Water,23504,4,Check food/donations
+2009-01-25,81,64,81,16,50624,74170,-23546,17,Maize Flour,17,31569,None,Malaria,9917,Internet,45220,7,Check food/donations
+2016-05-19,39,100,39,26,20821,40796,-19975,0,None,0,0,Power Outage,Flu,9466,Water,20762,8,Check food/donations
+2018-01-26,94,80,94,19,34319,98508,-64189,14,Maize Flour,14,21994,Fire,Diarrhea,23800,Electricity,40598,4,Check food/donations
+2014-10-06,58,49,58,17,55960,61271,-5311,9,Rice,9,16542,Water Shortage,Fever,4669,Electricity,44293,9,Check food/donations
+2009-01-11,75,95,75,21,60333,119052,-58719,0,None,0,0,Fire,Malaria,1028,Gas,48481,3,Check food/donations
+2019-05-18,83,34,83,24,146473,89898,56575,49,Vegetables,49,81879,None,None,0,Internet,32905,6,Check food/donations
+2011-02-25,97,74,97,11,104297,22620,81677,23,Vegetables,23,45080,None,Fever,23113,Internet,18066,6,Check food/donations
+2000-12-11,30,17,30,12,140016,107638,32378,13,Rice,13,23751,None,Malaria,11589,Internet,34743,10,Check food/donations
+2014-08-31,85,74,85,12,27903,76042,-48139,11,Vegetables,11,16632,Sickness,Malaria,1329,Electricity,48513,6,Check food/donations
+2002-01-04,99,58,99,22,144928,39642,105286,41,Maize Flour,41,77777,None,Fever,11505,Electricity,42133,7,Check food/donations
+2004-02-06,62,62,62,28,46812,106406,-59594,0,None,0,0,None,Malaria,20875,Internet,11863,6,Check food/donations
+2009-05-06,64,20,64,5,114735,110043,4692,44,Beans,44,83160,Power Outage,Malaria,28347,Gas,29958,7,Check food/donations
+2006-10-02,53,76,53,20,148074,47654,100420,0,None,0,0,None,Fever,17380,Water,22249,5,Stable
+2019-08-18,20,63,20,39,64682,117998,-53316,0,None,0,0,Water Shortage,Fever,20959,Electricity,38442,3,Check food/donations
+2014-08-12,26,96,26,40,106339,42322,64017,0,None,0,0,None,Fever,22839,Electricity,27600,4,Stable
+2001-03-16,74,17,74,13,121548,91843,29705,57,Rice,57,101802,None,Flu,271,Gas,15319,5,Check food/donations
+2009-10-30,50,11,50,7,125067,80125,44942,39,Rice,39,66651,None,Diarrhea,28577,Internet,34506,10,Check food/donations
+2010-05-21,95,70,95,37,49564,108540,-58976,25,Rice,25,43600,None,Flu,17284,Gas,19744,7,Check food/donations
+2007-05-05,23,76,23,5,124257,33017,91240,0,None,0,0,None,Flu,24893,Gas,30186,7,Stable
+2005-03-21,28,43,28,12,38147,106987,-68840,0,None,0,0,None,Malaria,18236,Gas,33014,7,Check food/donations
+2016-04-01,73,100,73,24,50438,94131,-43693,0,None,0,0,Sickness,Malaria,897,Water,16540,10,Check food/donations
+2006-04-11,29,61,29,31,64115,68074,-3959,0,None,0,0,Sickness,Diarrhea,5592,Gas,47842,3,Check food/donations
+2019-03-08,53,47,53,28,80433,95426,-14993,6,Maize Flour,6,11124,None,Fever,8626,Gas,39276,3,Check food/donations
+2001-10-27,65,10,65,7,91203,92032,-829,55,Beans,55,92785,None,Malaria,16460,Gas,23889,3,Check food/donations
+2009-03-26,98,46,98,10,12062,76212,-64150,52,Maize Flour,52,81224,None,Malaria,8681,Internet,20396,8,Check food/donations
+2016-04-24,96,99,96,33,112246,87067,25179,0,None,0,0,Power Outage,Flu,25962,Electricity,48411,5,Stable
+2000-07-07,58,100,58,22,91091,107618,-16527,0,None,0,0,None,Malaria,14143,Water,35871,5,Check food/donations
+2001-07-26,39,62,39,27,144322,107171,37151,0,None,0,0,None,None,0,Water,18178,3,Stable
+2001-07-01,100,14,100,6,119641,55267,64374,86,Beans,86,153424,Sickness,Malaria,2969,Electricity,37939,6,Check food/donations
+1999-11-11,24,73,24,23,105998,69134,36864,0,None,0,0,Sickness,Flu,22749,Gas,36924,4,Stable
+2014-10-08,45,26,45,13,2241,51895,-49654,19,Maize Flour,19,34751,Sickness,None,0,Internet,46877,9,Check food/donations
+1999-02-28,73,73,73,15,59055,106357,-47302,0,None,0,0,None,Malaria,15260,Gas,12384,7,Check food/donations
+2016-01-13,61,37,61,18,135352,64549,70803,24,Vegetables,24,43008,Power Outage,Malaria,19604,Electricity,22013,8,Check food/donations
+2004-11-29,72,97,72,37,139522,90254,49268,0,None,0,0,None,Malaria,21176,Water,31911,5,Stable
+1999-12-22,36,95,36,6,80977,29134,51843,0,None,0,0,None,None,0,Internet,26517,8,Stable
+2002-11-22,81,82,81,15,136437,105344,31093,0,None,0,0,None,Flu,22971,Water,49445,8,Stable
+2010-05-30,43,97,43,35,34078,94213,-60135,0,None,0,0,None,Diarrhea,21845,Gas,15422,9,Check food/donations
+2011-04-29,99,92,99,35,147302,64175,83127,7,Vegetables,7,12922,None,Malaria,19776,Electricity,41896,5,Check food/donations
+2000-12-30,26,87,26,36,14322,78487,-64165,0,None,0,0,Fire,None,0,Internet,31347,8,Check food/donations
+2011-06-03,97,69,97,10,44106,79386,-35280,28,Beans,28,54096,None,Fever,22997,Internet,10111,4,Check food/donations
+2013-09-22,78,40,78,15,100447,96378,4069,38,Rice,38,72124,Power Outage,Flu,5734,Water,24909,9,Check food/donations
+2015-05-10,20,26,20,21,114950,62394,52556,0,None,0,0,None,Flu,11784,Internet,25068,3,Stable
+2009-07-07,34,37,34,6,102809,34712,68097,0,None,0,0,Power Outage,Flu,14413,Gas,34695,3,Stable
